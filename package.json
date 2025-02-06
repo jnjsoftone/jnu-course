@@ -46,7 +46,10 @@
     "@swc/core-win32-x64-msvc": "^1.3.99"
   },
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "jnu-abc": "^0.0.12",
+    "jnu-doc": "^0.0.8",
+    "jnu-web": "^0.0.4"
   },
   "type": "module"
 }

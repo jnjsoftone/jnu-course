@@ -15,7 +15,7 @@ cd C:/JnJ/Developments/Utils
 xcli -e init -r "jnu-course||jnjsoftone||ts-swc-npm||Jnjsoft Nodejs Utility Library for e-Learning Course(class101, udemy, inflearn, ...) Support Functions in Typescript"
 
 # package install
-npm install 
+npm install jnu-abc jnu-doc jnu-web
 ```
 ## functions
 
