@@ -23,13 +23,20 @@ const CLASS101_PRODUCT_URL = 'https://class101.net/ko/products';
 // &
 const goToUrl = async (
   url,
-  { email = CHROME_DEFAULT_USER_EMAIL, userDataDir = CHROME_DEFAULT_USER_DATA_DIR, headless = false, scroll = false }
+  options = { email: CHROME_DEFAULT_USER_EMAIL, userDataDir: CHROME_DEFAULT_USER_DATA_DIR, headless: false, scroll: false }
 ) => {
+  const {
+    email = CHROME_DEFAULT_USER_EMAIL,
+    userDataDir = CHROME_DEFAULT_USER_DATA_DIR,
+    headless = false,
+    scroll = false
+  } = options;
+
   const chrome = new Chrome({
     headless: headless ? true : false,
     email,
     userDataDir,
-    arguments: ['--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080'],
+    arguments: ['--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1080,720'],
   });
 
   try {
@@ -467,7 +474,7 @@ const saveClassLectures = async (classId, type = 'init', lectureSns = []) => {
   try {
     const url = `https://class101.net/ko/classes/${classId}`;
     chrome = await goToUrl(url);
-    await sleepAsync(3000);
+    await sleepAsync(30000);
     const html = await chrome.getPageSource();
     let lectures = [];
     if (type === 'update') {
@@ -580,12 +587,12 @@ const processClasses = async (myclasses = [], type = 'init') => {
   // lectureSns = []
 
   for (const myclass of myclasses) {
+    console.log(`Processing class ${myclass.classId}`);
     try {
       await saveClassLectures(myclass.classId, type);
-
       await sleepAsync(5000);
     } catch (error) {
-      console.error(`Error processing class ${c.classId}:`, error);
+      console.error(`Error processing class ${myclass.classId}:`, error);
       continue;
     }
   }
@@ -599,7 +606,7 @@ const processClasses = async (myclasses = [], type = 'init') => {
 * @param type: 'init' or 'update' or 'redown'
 * @return void
 */
-const processClassLectures = async (myclasses = [], type = 'update') => {
+const processClassLectures = async (myclasses = [], type = 'init') => {
   if (myclasses.length === 0) {
     return;
   }
@@ -618,6 +625,8 @@ const processClassLectures = async (myclasses = [], type = 'update') => {
   }
 };
 
-// // * TEST
+// * TEST
 // const classId = '5ec0d03c31a0232781e26854';
 // await fetchLectureHomeHtml(classId);
+
+await processClasses();
