@@ -1,45 +1,5 @@
 [
   {
-    "productId": "5ec0d03c31a0232781e26855",
-    "title": "샐러드만으로 맛과 양 모두 즐기는 샐러드 레시피 & 드레싱 클래스",
-    "klassId": "5ec0d03c31a0232781e26854",
-    "categoryId": "604f1c9756c3676f1ed00357",
-    "categoryTitle": "비건 · 채소",
-    "authorName": "리화쌤"
-  },
-  {
-    "productId": "60a74e4319d49f000ebafc0c",
-    "title": "쉽게 구할 수 있는 재료로 근사하게! '솥밥' 하나로 맛있고 꽉 찬 식탁 만들기",
-    "klassId": "60a74e4319d49f000ebafc0b",
-    "categoryId": "613070fa5b76158cac88345a",
-    "categoryTitle": "한식",
-    "authorName": "여나테이블"
-  },
-  {
-    "productId": "644a1dfab4d9d0180919ea40",
-    "title": "한 번에 따는 컴퓨터 활용능력 1급 실기",
-    "klassId": "644a1dfab4d9d0180919ea3d",
-    "categoryId": "6220895c9dede0214b0783cf",
-    "categoryTitle": "자격증",
-    "authorName": "IT백과사전"
-  },
-  {
-    "productId": "644a1e39b4d9d018091a3fc4",
-    "title": "한 번에 따는 컴퓨터 활용능력 1급 필기",
-    "klassId": "644a1e39b4d9d018091a3fc1",
-    "categoryId": "6220895c9dede0214b0783cf",
-    "categoryTitle": "자격증",
-    "authorName": "IT백과사전"
-  },
-  {
-    "productId": "5e4d14c996102f0dac19931f",
-    "title": "멘탈이 바뀌면 인생도 바뀐다, 박세니의 실전 응용 심리학",
-    "klassId": "5e4d14c996102f0dac19931e",
-    "categoryId": "604f1c9756c3676f1ed003c3",
-    "categoryTitle": "성공마인드",
-    "authorName": "실전심리 전문가 박세니"
-  },
-  {
     "productId": "5f27bce8bb3dc1001503265a",
     "title": "자연을 닮은 색감으로 칠하는 클립스튜디오 캐릭터 일러스트",
     "imageId": "f81d5569-4c39-48f4-9d84-5e2ab4811482",

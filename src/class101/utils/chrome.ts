@@ -31,3 +31,5 @@ const goToUrl = async (
     throw error;
   }
 };
+
+export { goToUrl, Chrome };

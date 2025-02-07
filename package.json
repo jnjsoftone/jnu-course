@@ -49,7 +49,7 @@
     "dotenv": "^16.4.7",
     "jnu-abc": "^0.0.12",
     "jnu-doc": "^0.0.8",
-    "jnu-web": "^0.0.4"
+    "jnu-web": "^0.0.7"
   },
   "type": "module"
 }
