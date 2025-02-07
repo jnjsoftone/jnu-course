@@ -43,16 +43,31 @@ const goToUrl = async (
   }
 };
 
+/*
+* 강의 슬러그 추출
+* @param lecture: 강의 정보
+* @return slug: 강의 슬러그
+*/
 const getLectureSlug = (lecture) => {
   return `${lecture.sn.toString().padStart(3, '0')}_${lecture.lectureId}`;
 };
 
+/*
+* 강의 productId 추출
+* @param classId: 강의 번호
+* @return productId: 강의 productId
+*/
 const productIdFromClassId = (classId) => {
   const myclasses = loadJson(`${CLASS101_JSON_ROOT}/myclasses.json`);
   const classInfo = myclasses.find((c) => c.classId === classId) ?? { productId: '' };
   return classInfo.productId;
 };
 
+/*
+* 강의 시간 추출
+* @param durationText: 강의 시간 텍스트
+* @return duration: 강의 시간(초)
+*/
 const getDuration = (durationText) => {
   let duration = 0;
   if (durationText && durationText.includes(':')) {
@@ -70,6 +85,11 @@ const getDuration = (durationText) => {
   return duration;
 };
 
+/*
+* 강의 시간 텍스트 추출
+* @param duration: 강의 시간(초)
+* @return durationText: 강의 시간 텍스트
+*/
 const getDurationText = (duration) => {
   let durationText = '';
   if (duration >= 3600) {
@@ -91,7 +111,12 @@ const getDurationText = (duration) => {
 };
 
 // &----------------------------------
-
+/*
+* 강의 product(home) 페이지 크롤링
+* @param classId: 강의 번호
+* @param save: 저장 여부
+* @return html: 크롤링 결과 HTML
+*/
 const fetchLectureHomeHtml = async (classId, save = true) => {
   const url = `${CLASS101_PRODUCT_URL}/${productIdFromClassId(classId)}`;
   const response = await fetch(url);
@@ -102,6 +127,12 @@ const fetchLectureHomeHtml = async (classId, save = true) => {
   return html;
 };
 
+/*
+* 강의 목록 페이지 크롤링
+* @param classId: 강의 번호
+* @param save: 저장 여부
+* @return html: 크롤링 결과 HTML
+*/
 const fetchLectureIndexHtml = async (classId, save = true) => {
   const url = `https://class101.net/ko/classes/${classId}`;
   const chrome = await goToUrl(url);
@@ -113,8 +144,13 @@ const fetchLectureIndexHtml = async (classId, save = true) => {
 };
 
 // &----------------------------------
-
-const extractLectures = (html, selectors) => {
+/*
+* 강의 정보 추출
+* @param html: 크롤링 결과 HTML
+* @param selectors: 선택자 목록
+* @return lectures: 강의 목록
+*/
+const extractLectures = (html, selectors={}) => {
   selectors = {
     root: 'div.css-1o17esu',
     parent: '.css-zsoya5',
@@ -217,55 +253,53 @@ const extractLectures = (html, selectors) => {
   return lectures;
 };
 
+/*
+* 다운로드 버튼 클릭
+* @param button: 다운로드 버튼
+* @param downloadDir: 다운로드 디렉토리
+* @param chrome: Chrome 객체
+* @return void
+*/
 const downloadByClick = async (button, downloadDir, chrome) => {
   try {
     console.log(`------------------------------------------ downloadByClick`);
-
     // 파일명 요소 찾기 (상위 요소에서 찾기)
     const parentElement = await button.findElement(By.xpath('ancestor::div[contains(@class, "css-pvbmuo")]'));
     const fileNameElement = await parentElement.findElement(By.css('p.css-1e3x3i0'));
     const fileName = await fileNameElement.getText();
-
     // !! .py 파일인 경우 스킵
     if (fileName.toLowerCase().endsWith('.py')) {
       console.log(`#######################################Python 파일 스킵: ${fileName}`);
       return;
     }
-
     // 다운로드 디렉토리 생성
     if (!fs.existsSync(downloadDir)) {
-      fs.mkdirSync(downloadDir, { recursive: true });
+      fs.mkdirSync(downloadDir, {
+        recursive: true,
+      });
     }
-
     // 시스템 다운로드 폴더 경로
     const downloadPath = path.join(process.env.USERPROFILE || process.env.HOME || '', 'Downloads');
-
     // 다운로드 전 파일 목록 저장
     const beforeFiles = fs.readdirSync(downloadPath);
-
     // 버튼 클릭
     await button.click();
     await sleepAsync(2000);
-
     // 다운로드 완료 대기
     let retryCount = 0;
     const maxRetries = 3;
-
     while (retryCount < maxRetries) {
       try {
         await new Promise((resolve, reject) => {
           const timeout = setTimeout(() => {
             clearInterval(checkDownload);
             reject(new Error('다운로드 시간 초과'));
-          }, 10000);
-
+          }, 30000);
           const checkDownload = setInterval(() => {
             const afterFiles = fs.readdirSync(downloadPath);
             const newFiles = afterFiles.filter((file) => !beforeFiles.includes(file));
-
             if (newFiles.length > 0) {
               const isCompleted = !newFiles.some((file) => file.endsWith('.crdownload') || file.endsWith('.tmp'));
-
               if (isCompleted) {
                 // 새로 다운로드된 파일을 지정된 디렉토리로 이동
                 for (const file of newFiles) {
@@ -287,49 +321,52 @@ const downloadByClick = async (button, downloadDir, chrome) => {
         await sleepAsync(2000);
       }
     }
-
     console.log(`다운로드 완료: ${downloadDir}`);
     await sleepAsync(2000);
   } catch (error) {
     console.error(`다운로드 실패 (${downloadDir}):`, error);
-
     // 에러 로그 저장을 위한 디렉토리 생성
     if (!fs.existsSync(downloadDir)) {
-      fs.mkdirSync(downloadDir, { recursive: true });
+      fs.mkdirSync(downloadDir, {
+        recursive: true,
+      });
     }
     fs.writeFileSync(path.join(downloadDir, 'error.html'), `error: ${downloadDir}`, 'utf8');
   }
 };
 
+
 /**
  * 강의 자료 다운로드
- */
+ * @param lecture: 강의 정보
+ * @param lectureDir: 강의 디렉토리
+ * @param chrome: Chrome 객체
+ * @return void
+ */ 
 const getMaterial = async (lecture, lectureDir, chrome) => {
   console.log(`#수업자료 처리 중: ${lecture.title} ${lecture.lectureId}`);
   try {
     // 수업자료 탭이 있는지 확인
     const materialSpan = await chrome.driver.findElement(By.xpath(`//span[text()="수업자료"]`));
-
     // 수업자료 탭 클릭
     await materialSpan.click();
     await sleepAsync(5000);
-
     // 자료 내용 저장
     const materialContent = await chrome.getElementHtml('div.css-1przxg');
     // const materialContent = await chrome.getElementHtml('div.css-zqgvt1');
     const materialPath = `${lectureDir}/materials/index.html`;
-    saveFile(materialPath, materialContent, { newFile: false });
-
+    saveFile(materialPath, materialContent, {
+      newFile: false,
+    });
     // 첨부파일이 있는 경우 다운로드
     if (lecture.hasAttachment) {
       const filesDir = `${lectureDir}/files`;
       const downloadButtons = await chrome.driver.findElements(By.xpath(`//p[text()="Download"]`));
-
       for (const button of downloadButtons) {
         await downloadByClick(button, filesDir, chrome);
+        await sleepAsync(20000);
       }
     }
-
     // 커리큘럼 탭으로 돌아가기
     const curriculumSpan = await chrome.driver.findElement(By.xpath(`//span[text()="커리큘럼"]`));
     await curriculumSpan.click();
@@ -340,32 +377,39 @@ const getMaterial = async (lecture, lectureDir, chrome) => {
   }
 };
 
-const downloadVttFiles = async (htmlContent, outputDir = 'files/subtitles') => {
+/*
+* 자막 다운로드
+* @param htmlContent: 크롤링 결과 HTML
+* @param outputDir: 자막 디렉토리
+* @return vttInfos: 자막 정보
+*/
+const downloadVttFiles = async (htmlContent, outputDir = 'subtitles') => {
+  // const downloadVttFiles = async (htmlContent, outputDir = 'files/subtitles')=>{
   // HTML 파싱
   const $ = cheerio.load(htmlContent);
+  // track 태그에서 VTT 파일 URL 추출
   const trackElements = $('track');
   const vttInfos = [];
-
   for (let i = 0; i < trackElements.length; i++) {
     const track = trackElements[i];
+    // src 속성이 있고 .vtt로 끝나는 경우만 처리
     const src = $(track).attr('src');
     const lang = $(track).attr('srclang') || 'unknown';
-
     if (src && src.endsWith('.vtt')) {
       try {
+        // VTT 파일 다운로드
         const response = await axios({
           method: 'get',
           url: src,
           responseType: 'arraybuffer',
         });
-
+        // 파일명 추출 (URL의 마지막 분)
         const filename = src.split('/').pop();
-
         // 파일 저장
-        saveFile(path.join(outputDir, filename), response.data, { newFile: false });
-
-        console.log(`다운로드 완료: ${filename}`);
-
+        saveFile(path.join(outputDir, filename), response.data, {
+          newFile: false,
+        });
+        console.log(`다운로드 완료: ${outputDir}/${filename}`);
         // VTT 정보 저장
         vttInfos.push({
           lang,
@@ -380,11 +424,17 @@ const downloadVttFiles = async (htmlContent, outputDir = 'files/subtitles') => {
       }
     }
   }
-
   return vttInfos;
 };
 
+
 // 편의 함수: HTML 파일에서 VTT 다운로드
+/*
+* 강의 자막 다운로드
+* @param classId: 강의 번호
+* @param lectureId: 강의 번호
+* @return vttInfos: 자막 정보
+*/
 const downloadLectureSubtitles = async (classId, lectureId) => {
   const classInfo = loadJson(`${CLASS101_JSON_ROOT}/classes/${classId}.json`);
   try {
@@ -393,15 +443,12 @@ const downloadLectureSubtitles = async (classId, lectureId) => {
     const lectureDir = `${CLASS101_HTML_ROOT}/classes/${classId}/${lectureSlug}`;
     const lectureHtmlPath = `${lectureDir}/video.html`;
     const htmlContent = loadFile(lectureHtmlPath);
-
     const vttInfos = await downloadVttFiles(htmlContent, `${lectureDir}/subtitles`);
     lecture.subtitles = vttInfos;
     console.log('다운로드된 자막 정보:', vttInfos);
-
     // VTT 정보 저장
     saveJson(`${CLASS101_JSON_ROOT}/classes/${classId}.json`, classInfo);
     // saveJson(`${lectureDir}/subtitles/info.json`, vttInfos);
-
     return vttInfos;
   } catch (error) {
     console.error('VTT 파일 다운로드 중 오류 발생:', error);
@@ -519,21 +566,22 @@ const saveClassLectures = async (classId, type = 'init', lectureSns = []) => {
 };
 
 // # main functions
-// step: 'L': 강의 정보 추출 완료, 'M': 강의 자료 다운로드 완료, 'V': 비디오 다운로드 완료, 'S': 자막 다운로드 완료
-const processClasses = async (type = 'init') => {
-  const myclasses = loadJson(`${CLASS101_JSON_ROOT}/myclasses.json`);
+/*
+* 강의 정보 추출 및 수업자료 다운로드
+* @param myclasses: 강의 목록
+*  [{title, classId, productId, categoryId, authorId}, ...]
+* @param type: 'init' or 'update'
+* @return void
+*/
+const processClasses = async (myclasses = [], type = 'init') => {
+  if (myclasses.length === 0) {
+    myclasses = loadJson(`${CLASS101_JSON_ROOT}/myclasses.json`);
+  }
+  // lectureSns = []
 
-  for (const c of unprocessedClasses) {
+  for (const myclass of myclasses) {
     try {
-      console.log(`강의 정보 추출 중: ${c.classId}`);
-      await saveClassLectures(c.classId, type);
-
-      // 원본 myclasses에서 해당 class를 찾아 업데이트
-      const targetClass = myclasses.find((mc) => mc.classId === c.classId);
-      if (targetClass) {
-        targetClass.step += 'L';
-        saveJson(`${CLASS101_JSON_ROOT}/myclasses.json`, myclasses);
-      }
+      await saveClassLectures(myclass.classId, type);
 
       await sleepAsync(5000);
     } catch (error) {
@@ -543,6 +591,33 @@ const processClasses = async (type = 'init') => {
   }
 };
 
-// * TEST
-const classId = '5ec0d03c31a0232781e26854';
-await fetchLectureHomeHtml(classId);
+
+/*
+* 강의 정보 추출 및 수업자료 다운로드
+* @param myclasses: 강의 목록
+*  [{classId: '', lectures: [{sn: '', title: ''}]}]
+* @param type: 'init' or 'update' or 'redown'
+* @return void
+*/
+const processClassLectures = async (myclasses = [], type = 'update') => {
+  if (myclasses.length === 0) {
+    return;
+  }
+  // lectureSns = []
+
+  for (const myclass of myclasses) {
+    try {
+      const lectureSns = myclass.lectures.map((l) => l.sn);
+      await saveClassLectures(myclass.classId, type, lectureSns);
+
+      await sleepAsync(5000);
+    } catch (error) {
+      console.error(`Error processing class ${c.classId}:`, error);
+      continue;
+    }
+  }
+};
+
+// // * TEST
+// const classId = '5ec0d03c31a0232781e26854';
+// await fetchLectureHomeHtml(classId);
