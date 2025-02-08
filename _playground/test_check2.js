@@ -473,8 +473,8 @@ function correctClassJson() {
 // };
 
 // * TEST
-// findOverlappedClassIds(true);
-// findOverlappedLectures(true);
+findOverlappedClassIds(true);
+findOverlappedLectures(true);
 // findOverlappedHtmls(true);
 
 // // * 실행

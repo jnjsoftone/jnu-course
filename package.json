@@ -33,7 +33,6 @@
   "devDependencies": {
     "@swc/cli": "^0.5.1",
     "@swc/core": "^1.9.3",
-    "@swc/core-win32-x64-msvc": "^1.10.12",
     "@types/jest": "^29.5.11",
     "@types/node": "^22.9.4",
     "concurrently": "^9.1.0",
