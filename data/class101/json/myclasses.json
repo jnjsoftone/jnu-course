@@ -1,119 +1,198 @@
 [
   {
-    "title": "하루 30분, 커피 타임으로 일상툰 작가 부캐 만들기",
-    "classId": "618a354470fcb3000d7242e6",
-    "productId": "618a354470fcb3000d7242eb",
-    "categoryId": "613070fa5b76158cac88344e",
-    "authorId": "5f1564a919e366d0b483d6ae",
-    "step": ""
-  },
-  {
-    "title": "대체되지 않는 작가가 되는 법, 윤태호",
-    "classId": "65953072d3cfc0000e6707f0",
-    "productId": "65953072d3cfc0000e6707f4",
-    "categoryId": "613070fa5b76158cac88344e",
-    "authorId": "66cd61573f08b54737423ce5",
-    "step": ""
-  },
-  {
-    "title": "연출부터 작화까지, 4가지 장르로 그리는 흑백만화",
-    "classId": "60ade477ae791f000e37e7ca",
-    "productId": "60ade477ae791f000e37e7cb",
-    "categoryId": "613070fa5b76158cac88344e",
-    "authorId": "602d3d31c4204b0014909226",
-    "step": ""
-  },
-  {
-    "title": "그날의 생각, 감정 그리고 나를 기록해봐요, 나만의 SNS일상툰",
-    "classId": "5faba4f41e69fb000db7e9c8",
-    "productId": "5faba4f81e69fb000db7edf9",
-    "categoryId": "613070fa5b76158cac88344e",
-    "authorId": "5fa7c9773ef37e000d51fe43",
-    "step": ""
-  },
-  {
-    "title": "평범한 일상도 만화가 되는 인스타툰 그리기",
-    "classId": "60ecf3bda6c65c000dd46331",
-    "productId": "60ecf3bda6c65c000dd46332",
-    "categoryId": "613070fa5b76158cac88344e",
-    "authorId": "5d38917c62ca5a0c9ff059aa",
-    "step": ""
-  },
-  {
-    "title": "제대로 이해하고 그리는 현피치의 투명하게 빛나는 아이패드 인물화2",
-    "classId": "607eb9874247c4000e6bcd06",
-    "productId": "607eb9874247c4000e6bcd07",
+    "productId": "629ea66fa3c333000e387f51",
+    "title": "[데생없이 부드럽게 인체를 그리기] 마법의 제스처 드로잉",
+    "imageId": "e53b248f-28f9-4b97-8e8f-a70ebbb4dd9e",
+    "classId": "629ea66fa3c333000e387f4e",
+    "likedCount": 9883,
+    "firestoreId": "ybhC9kFIRHhS1PNmZ8KT",
     "categoryId": "613070fa5b76158cac88344c",
-    "authorId": "5c8b6af935b52893ce395fb4",
-    "step": ""
+    "categoryTitle": "인물 드로잉",
+    "authorId": "62c4e0ebaf3705000e86bb44",
+    "authorName": "fururi"
   },
   {
-    "title": "아이패드 하나로 더 진짜같게, 더 예쁘게! 현피치의 아이패드 인물화",
-    "classId": "5f0a82797438143a52a1c86b",
-    "productId": "5f0a82797438143a52a1c86c",
-    "categoryId": "613070fa5b76158cac88344c",
-    "authorId": "5c8b6af935b52893ce395fb4",
-    "step": ""
+    "productId": "5e4d14c996102f0dac19931f",
+    "title": "멘탈이 바뀌면 인생도 바뀐다, 박세니의 실전 응용 심리학",
+    "classId": "5e4d14c996102f0dac19931e",
+    "categoryId": "604f1c9756c3676f1ed003c3",
+    "categoryTitle": "성공마인드",
+    "authorName": "실전심리 전문가 박세니"
   },
   {
-    "title": "일러스트와 만화, 그 경계를 허무는 이야기가 담긴 캐릭터 드로잉",
-    "classId": "5e7d6e10ba75bf6e3a2f6fc2",
-    "productId": "5e7d6e10ba75bf6e3a2f6fc3",
-    "categoryId": "613070fa5b76158cac88344b",
-    "authorId": "5e6e1f735ff67b0db6b371ba",
-    "step": ""
-  },
-  {
-    "title": "생기있고 발랄하게, 클립스튜디오로 그리는 반짝반짝 캐릭터 일러스트",
-    "classId": "5ef07499f7069f14407d27d1",
-    "productId": "5ef0749af7069f14407d27d2",
-    "categoryId": "613070fa5b76158cac88344b",
-    "authorId": "5ef0745dc8e0ff351e87d5bd",
-    "step": ""
-  },
-  {
-    "title": "사이툴로 그리는 일러스트레이터 페사의 따뜻한 캐릭터 드로잉",
-    "classId": "5e7334d4f99f163172213c59",
-    "productId": "5e7334d4f99f163172213c5a",
-    "categoryId": "613070fa5b76158cac88344b",
-    "authorId": "5e7334c408f7fb3186cb2e4e",
-    "step": ""
-  },
-  {
-    "title": "사랑을 담아 그리는 순정 일러스트, 이야기를 말하는 캐릭터 드로잉",
-    "classId": "5e7a1b0f2d5c9d74e9a7f842",
-    "productId": "5e7a1b0f2d5c9d74e9a7f843",
-    "categoryId": "613070fa5b76158cac88344b",
-    "authorId": "5e7a1af93573aa48bee421b6",
-    "step": ""
-  },
-  {
-    "title": "캐릭터를 살아 숨쉬게 하기, 프로 애니메이션 감독의 스토리 비주얼 라이징",
-    "classId": "5e6258d71479d9790288e304",
     "productId": "5e6258d71479d9790288e305",
+    "title": "캐릭터를 살아 숨쉬게 하기, 프로 애니메이션 감독의 스토리 비주얼 라이징",
+    "imageId": "fab0b1c6-273f-4c39-aca3-59d516ce7d2c",
+    "classId": "5e6258d71479d9790288e304",
+    "likedCount": 19475,
+    "firestoreId": "RmrRJPjdU6BjCduu6ZUN",
     "categoryId": "6114891dfe1ca7f7b31b4a23",
+    "categoryTitle": "컨셉아트",
     "authorId": "5cdd8e3580f6734ace661784",
-    "step": ""
+    "authorName": "규멩"
   },
   {
+    "productId": "5e7334d4f99f163172213c5a",
+    "title": "사이툴로 그리는 일러스트레이터 페사의 따뜻한 캐릭터 드로잉",
+    "imageId": "e5c94ca3-d542-47c8-ba35-b39aa2fca19b",
+    "classId": "5e7334d4f99f163172213c59",
+    "likedCount": 21167,
+    "firestoreId": "JIGdVpbXb0NxReO0kDd7",
+    "categoryId": "613070fa5b76158cac88344b",
+    "categoryTitle": "캐릭터 드로잉",
+    "authorId": "5e7334c408f7fb3186cb2e4e",
+    "authorName": "페사"
+  },
+  {
+    "productId": "5e7a1b0f2d5c9d74e9a7f843",
+    "title": "사랑을 담아 그리는 순정 일러스트, 이야기를 말하는 캐릭터 드로잉",
+    "imageId": "3a1ee7b4-91a8-4211-9d08-4c8da12c896f",
+    "classId": "5e7a1b0f2d5c9d74e9a7f842",
+    "likedCount": 23368,
+    "firestoreId": "AFHngWIXP0Lx5l3l4Cvv",
+    "categoryId": "613070fa5b76158cac88344b",
+    "categoryTitle": "캐릭터 드로잉",
+    "authorId": "5e7a1af93573aa48bee421b6",
+    "authorName": "유운"
+  },
+  {
+    "productId": "5e7d6e10ba75bf6e3a2f6fc3",
+    "title": "일러스트와 만화, 그 경계를 허무는 이야기가 담긴 캐릭터 드로잉",
+    "imageId": "f1a5d5d0-a6db-4686-bebc-72bad480de06",
+    "classId": "5e7d6e10ba75bf6e3a2f6fc2",
+    "likedCount": 13945,
+    "firestoreId": "xYrsw8BM6wFjcmJkj1Zl",
+    "categoryId": "613070fa5b76158cac88344b",
+    "categoryTitle": "캐릭터 드로잉",
+    "authorId": "5e6e1f735ff67b0db6b371ba",
+    "authorName": "Daong"
+  },
+  {
+    "productId": "5ec0d03c31a0232781e26855",
+    "title": "샐러드만으로 맛과 양 모두 즐기는 샐러드 레시피 & 드레싱 클래스",
+    "classId": "5ec0d03c31a0232781e26854",
+    "categoryId": "604f1c9756c3676f1ed00357",
+    "categoryTitle": "비건 · 채소",
+    "authorName": "리화쌤"
+  },
+  {
+    "productId": "5ef0749af7069f14407d27d2",
+    "title": "생기있고 발랄하게, 클립스튜디오로 그리는 반짝반짝 캐릭터 일러스트",
+    "imageId": "bc82600c-8a5b-4375-8bc0-bdcb08e7a669",
+    "classId": "5ef07499f7069f14407d27d1",
+    "likedCount": 16083,
+    "firestoreId": "h2dhpUvG2kODGKj8fwgv",
+    "categoryId": "613070fa5b76158cac88344b",
+    "categoryTitle": "캐릭터 드로잉",
+    "authorId": "5ef0745dc8e0ff351e87d5bd",
+    "authorName": "Dodam"
+  },
+  {
+    "productId": "5f0a82797438143a52a1c86c",
+    "title": "아이패드 하나로 더 진짜같게, 더 예쁘게! 현피치의 아이패드 인물화",
+    "imageId": "ab7a4528-c661-4735-8eef-159dd3ff12cf",
+    "classId": "5f0a82797438143a52a1c86b",
+    "likedCount": 19922,
+    "firestoreId": "FO3HfVZtXTo23QVhaJFX",
+    "categoryId": "613070fa5b76158cac88344c",
+    "categoryTitle": "인물 드로잉",
+    "authorId": "5c8b6af935b52893ce395fb4",
+    "authorName": "hyunpeach_"
+  },
+  {
+    "productId": "5faba4f81e69fb000db7edf9",
+    "title": "그날의 생각, 감정 그리고 나를 기록해봐요, 나만의 SNS일상툰",
+    "imageId": "ab0bf957-7555-4bf0-9974-b2e0cd9e0cc5",
+    "classId": "5faba4f41e69fb000db7e9c8",
+    "likedCount": 7983,
+    "firestoreId": "JMBu9psckGy9S3GLvCLK",
+    "categoryId": "613070fa5b76158cac88344e",
+    "categoryTitle": "웹툰",
+    "authorId": "5fa7c9773ef37e000d51fe43",
+    "authorName": "응켱"
+  },
+  {
+    "productId": "607eb9874247c4000e6bcd07",
+    "title": "제대로 이해하고 그리는 현피치의 투명하게 빛나는 아이패드 인물화2",
+    "imageId": "4531f8fc-da47-4955-9d6d-42b424f7d59b",
+    "classId": "607eb9874247c4000e6bcd06",
+    "likedCount": 12492,
+    "firestoreId": "sW73PMiVTF7bQHWU1Yfy",
+    "categoryId": "613070fa5b76158cac88344c",
+    "categoryTitle": "인물 드로잉",
+    "authorId": "5c8b6af935b52893ce395fb4",
+    "authorName": "hyunpeach_"
+  },
+  {
+    "productId": "60a74e4319d49f000ebafc0c",
     "title": "쉽게 구할 수 있는 재료로 근사하게! '솥밥' 하나로 맛있고 꽉 찬 식탁 만들기",
     "classId": "60a74e4319d49f000ebafc0b",
-    "productId": "60a74e4319d49f000ebafc0c",
     "categoryId": "613070fa5b76158cac88345a",
-    "step": ""
+    "categoryTitle": "한식",
+    "authorName": "여나테이블"
   },
   {
+    "productId": "60ade477ae791f000e37e7cb",
+    "title": "연출부터 작화까지, 4가지 장르로 그리는 흑백만화",
+    "imageId": "8fbf6e10-be37-48dc-a749-811517881c23",
+    "classId": "60ade477ae791f000e37e7ca",
+    "likedCount": 7467,
+    "firestoreId": "bfaom1cMIiHRONi7Qn8S",
+    "categoryId": "613070fa5b76158cac88344e",
+    "categoryTitle": "웹툰",
+    "authorId": "602d3d31c4204b0014909226",
+    "authorName": "가타"
+  },
+  {
+    "productId": "60ecf3bda6c65c000dd46332",
+    "title": "평범한 일상도 만화가 되는 인스타툰 그리기",
+    "imageId": "6e9d89fe-5542-4d17-9507-eb9dea822ed5",
+    "classId": "60ecf3bda6c65c000dd46331",
+    "likedCount": 9891,
+    "firestoreId": "radg3l9uXDlqiFqsJhs8",
+    "categoryId": "613070fa5b76158cac88344e",
+    "categoryTitle": "웹툰",
+    "authorId": "5d38917c62ca5a0c9ff059aa",
+    "authorName": "SHUN"
+  },
+  {
+    "productId": "618a354470fcb3000d7242eb",
+    "title": "하루 30분, 커피 타임으로 일상툰 작가 부캐 만들기",
+    "imageId": "2c183bb5-f696-4e35-a60a-30203cf7bb94",
+    "classId": "618a354470fcb3000d7242e6",
+    "likedCount": 1748,
+    "firestoreId": "hr2gz6cYXz4WvvXbZt4E",
+    "categoryId": "613070fa5b76158cac88344e",
+    "categoryTitle": "웹툰",
+    "authorId": "5f1564a919e366d0b483d6ae",
+    "authorName": "하군"
+  },
+  {
+    "productId": "644a1dfab4d9d0180919ea40",
     "title": "한 번에 따는 컴퓨터 활용능력 1급 실기",
     "classId": "644a1dfab4d9d0180919ea3d",
-    "productId": "644a1dfab4d9d0180919ea40",
     "categoryId": "6220895c9dede0214b0783cf",
-    "step": ""
+    "categoryTitle": "자격증",
+    "authorName": "IT백과사전"
   },
   {
+    "productId": "644a1e39b4d9d018091a3fc4",
     "title": "한 번에 따는 컴퓨터 활용능력 1급 필기",
     "classId": "644a1e39b4d9d018091a3fc1",
-    "productId": "644a1e39b4d9d018091a3fc4",
     "categoryId": "6220895c9dede0214b0783cf",
-    "step": ""
+    "categoryTitle": "자격증",
+    "authorName": "IT백과사전"
+  },
+  {
+    "productId": "65953072d3cfc0000e6707f4",
+    "title": "대체되지 않는 작가가 되는 법, 윤태호",
+    "imageId": "436c0818-e558-4008-9d7e-be1bd10ace64",
+    "classId": "65953072d3cfc0000e6707f0",
+    "likedCount": 1085,
+    "firestoreId": "uvwYd2b9TG4DcOyzKjXu",
+    "categoryId": "613070fa5b76158cac88344e",
+    "categoryTitle": "웹툰",
+    "authorId": "66cd61573f08b54737423ce5",
+    "authorName": "슈퍼코믹스"
   }
 ]

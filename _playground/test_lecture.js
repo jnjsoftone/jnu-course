@@ -1,6 +1,16 @@
 import { By, until } from 'selenium-webdriver';
 import { Chrome } from 'jnu-web';
-import { loadJson, loadFile, saveJson, saveFile, sanitizeName, sleepAsync, PLATFORM } from 'jnu-abc';
+import {
+  loadJson,
+  loadFile,
+  saveJson,
+  saveFile,
+  setPath,
+  findFiles,
+  sanitizeName,
+  sleepAsync,
+  PLATFORM,
+} from 'jnu-abc';
 import dotenv from 'dotenv';
 import * as cheerio from 'cheerio';
 import axios from 'axios';
@@ -633,6 +643,52 @@ const processClassLectures = async (myclasses = [], type = 'init') => {
   }
 };
 
+/*
+ * 자막 파일 이동
+ * @param classId: 강의 번호
+ * @param lectureId: 강의 번호
+ * @param vttInfos: 자막 정보
+ * @return void
+ */
+const copyVttFilesToVideo = (classId) => {
+  const folders = findFolders(`${CLASS101_HTML_ROOT}/classes/${classId}`);
+
+  for (const folder of folders) {
+    const lectureSlug = getLectureSlug(folder);
+    const src = `${CLASS101_HTML_ROOT}/classes/${classId}/${lectureSlug}/subtitles/`;
+    const dst = `${CLASS101_VIDEO_ROOT}/${classId}/`;
+    fs.copySync(src, dst);
+  }
+};
+
+/*
+
+*/
+const myclassesFromClassJsonFiles = (save = true) => {
+  const classJsonFiles = findFiles(`${CLASS101_JSON_ROOT}/classes/`).map((f) => setPath(f));
+  const myclassIds = classJsonFiles.map((f) => f.split('/').pop().split('.')[0]);
+  const products = loadJson(`${CLASS101_JSON_ROOT}/products.json`);
+  const myclasses = myclassIds.map((id) => products.find((p) => p.classId === id));
+  if (save) {
+    saveJson(`${CLASS101_JSON_ROOT}/myclasses.json`, myclasses);
+  }
+  return myclasses;
+  // const myclasses = [];
+  // for (const classJsonFile of classJsonFiles) {
+  //   const classId = classJsonFile.split('/')[3];
+  //   const classInfo = loadJson(classJsonFile);
+  //   myclasses.push(classInfo);
+  // }
+  // return myclasses;
+};
+
+// for (const myclass of myclasses) {
+//     const classId = myclass.lectures.map((l) => l.sn);
+//     copyVttFilesToVideo(classId);
+// }
+
+myclassesFromClassJsonFiles();
+
 // * TEST
 // const classId = '5ec0d03c31a0232781e26854';
 // await fetchLectureHomeHtml(classId);
@@ -642,11 +698,12 @@ const processClassLectures = async (myclasses = [], type = 'init') => {
 // await saveClassLectures('629ea66fa3c333000e387f4e');
 // await processClasses();
 
-// const redowns = [["60ade477ae791f000e37e7ca", [11, 12]],
-// ["5e7d6e10ba75bf6e3a2f6fc2", [10, 11]],
-// ["5e7a1b0f2d5c9d74e9a7f842", [5, 6, 8, 9]]]
-const redowns = [['5e7a1b0f2d5c9d74e9a7f842', [8, 9]]];
+// * 재다운로드
+// // const redowns = [["60ade477ae791f000e37e7ca", [11, 12]],
+// // ["5e7d6e10ba75bf6e3a2f6fc2", [10, 11]],
+// // ["5e7a1b0f2d5c9d74e9a7f842", [5, 6, 8, 9]]]
+// const redowns = [['5e7a1b0f2d5c9d74e9a7f842', [8, 9]]];
 
-for (const redown of redowns) {
-  await saveClassLectures(redown[0], 'update', redown[1]);
-}
+// for (const redown of redowns) {
+//   await saveClassLectures(redown[0], 'update', redown[1]);
+// }
