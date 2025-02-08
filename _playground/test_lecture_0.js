@@ -172,8 +172,8 @@ const extractLectures = (html, selectors = {}) => {
     lecture: 'button.css-1hvtp3b',
     lectureTitle: 'span.css-1h8wj8h',
     buttonRoot: 'button.css-1hvtp3b', // 'button.css-1hvtp3b'
-    // span1: '.css-1h8wj8h', // '.css-1h8wj8h'
-    // span2: '.css-q6203x', // '.css-q6203x'
+    span1: 'css-1h8wj8h', // '.css-1h8wj8h'
+    span2: '.css-q6203x', // '.css-q6203x'
     duration: 'svg[data-testid="playcircle-fill"]', // 'svg[data-testid="playcircle-fill"]'
     durationText: '.css-bgvpp3', //
     comment: 'svg[data-testid="reply-fill"]', // 'svg[data-testid="reply-fill"]'
@@ -215,17 +215,17 @@ const extractLectures = (html, selectors = {}) => {
           lectureCount++;
 
           // 강의 제목 추출
-          let lectureTitle = $button.find(selectors.span1).find('span').first().text();
-          // console.log(`!!!@@@@@ $button.find(selectors.span1): ${$button.find('span').first().text()}`);
+          let lectureTitle = $button.find(selectors.span1).first().text().trim();
+          console.log(`!!!@@@@@ $button.find(selectors.span1).first(): ${$button.find(selectors.span1).first()}`);
+
           if (!lectureTitle) {
-            lectureTitle = $button.find('span').first().text();
+            lectureTitle = $button.find(selectors.span2).first().text().trim();
           }
           if (!lectureTitle) {
-            // console.log(`!!!@@@@@ $button.text(): ${$button.text()}`);
-            lectureTitle = $button.text().split(':')[0].slice(0, -2).trim();
+            lectureTitle = $button.text().split('\n')[0].trim();
             // lectureTitle = $button.text().split('\n')[0].trim();
           }
-          // console.log(`!!!#### lectureTitle: ${$button.text().split(':')[0].slice(0, -2).trim()}`);
+          console.log(`!!!#### lectureTitle: ${$button.text()}`);
 
           // duration 추출
           let durationText = $button
@@ -367,7 +367,7 @@ const getMaterial = async (lecture, lectureDir, chrome) => {
     const materialSpan = await chrome.driver.findElement(By.xpath(`//span[text()="수업자료"]`));
     // 수업자료 탭 클릭
     await materialSpan.click();
-    await sleepAsync(10000);
+    await sleepAsync(5000);
     // 자료 내용 저장
     const materialContent = await chrome.getElementHtml('div.css-1przxg');
     // const materialContent = await chrome.getElementHtml('div.css-zqgvt1');
@@ -637,16 +637,7 @@ const processClassLectures = async (myclasses = [], type = 'init') => {
 // const classId = '5ec0d03c31a0232781e26854';
 // await fetchLectureHomeHtml(classId);
 
-// const lectures = extractLectures(loadFile(`${CLASS101_HTML_ROOT}/classes/629ea66fa3c333000e387f4e/index.html`));
+const lectures = extractLectures(loadFile(`${CLASS101_HTML_ROOT}/classes/629ea66fa3c333000e387f4e/index.html`));
 // console.log(lectures);
 // await saveClassLectures('629ea66fa3c333000e387f4e');
 // await processClasses();
-
-// const redowns = [["60ade477ae791f000e37e7ca", [11, 12]],
-// ["5e7d6e10ba75bf6e3a2f6fc2", [10, 11]],
-// ["5e7a1b0f2d5c9d74e9a7f842", [5, 6, 8, 9]]]
-const redowns = [['5e7a1b0f2d5c9d74e9a7f842', [8, 9]]];
-
-for (const redown of redowns) {
-  await saveClassLectures(redown[0], 'update', redown[1]);
-}

@@ -1,0 +1,1010 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_안녕하세요! 리화쌤입니다.",
+    "title": "안녕하세요! 샐러드 선생님, 리화쌤입니다.03:30100",
+    "duration": 210,
+    "commentCount": 100,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f05b6e6c01a480d9bb7c388",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "92e6a2fc-b594-4d91-8e1c-2ae402dba90b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "cf00c79a-6ec7-4df1-b92c-c6e67c99ddae.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "25298a6c-b2d0-4f00-b834-e588e996ebce.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 2,
+    "chapter": "001_안녕하세요! 리화쌤입니다.",
+    "title": "키트를 살펴볼까요?03:20256",
+    "duration": 200,
+    "commentCount": 256,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f05b6f326edf66fb91ce60c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8120b46a-fd2c-412f-87f9-c8c06f52c6a7.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "dc744802-db3f-4b76-8bdd-dc2180ef25f5.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b377b581-8c6e-407b-9f87-ea2dfc87f8eb.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "002_샐러드 만들기에 필요한 기본지식",
+    "title": "재료 계량법을 알아보아요04:2040",
+    "duration": 260,
+    "commentCount": 40,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f0328d0b3a2450da87bbbc4",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c7ec4c71-f0e1-40f4-af4b-7e6abc89023c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8cf17a02-03e9-4951-8956-109462654816.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d9535fd9-6f87-4db3-aef5-527ac2edc1e9.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "002_샐러드 만들기에 필요한 기본지식",
+    "title": "제가 수업에서 자주 사용하게 될 재료들을 소개합니다06:56243첨부파일",
+    "duration": 416,
+    "commentCount": 243,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032abfa5531a0db5a77a67",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "881e5a34-d9de-4ebb-9606-69da9de907de.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c4793083-f88a-43b9-9037-576fd0a89c4c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "72ae9de6-6e37-45ce-a7d4-7dc8a216b47e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "003_샐러드의 기본 드레싱 5가지 만들기",
+    "title": "몸 속 노폐물 저리가,혈액순환에는 오리엔탈 드레싱08:07258첨부파일",
+    "duration": 487,
+    "commentCount": 258,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f0329f66f5f000d92fd92f2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f6fd6500-8c46-4c31-96dd-1d53a482dc40.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d96fc19d-e701-40a1-84ee-eee0af733fd8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "005f2703-9aeb-4f70-813c-90e8e7ebb97a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "003_샐러드의 기본 드레싱 5가지 만들기",
+    "title": "혈당 조절에 최고 발사믹 드레싱10:57167첨부파일",
+    "duration": 657,
+    "commentCount": 167,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032a22a8a28a0daf4a62fc",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f07a6037-0673-4c1a-96cf-223fb9accdc3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "74dfa0ab-45f9-401d-aee6-1bffda567bb3.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0eba006e-73c7-49ea-bc8d-1cfcfd30e0dd.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "003_샐러드의 기본 드레싱 5가지 만들기",
+    "title": "비타민C가 최고,피로회복엔 유자 드레싱07:22108첨부파일",
+    "duration": 442,
+    "commentCount": 108,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032a6710773804b2cef1d3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d3cec21f-eac8-4f5a-86da-ab9b556df970.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "99a82cbb-9b6c-4e69-969b-a3a8d7dce1e1.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8189dbf1-2b49-4442-82bc-71e8ab679f2a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "003_샐러드의 기본 드레싱 5가지 만들기",
+    "title": "상큼 그 자체 요거트 드레싱07:16147첨부파일",
+    "duration": 436,
+    "commentCount": 147,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032a5293ee510da2a66a96",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c2a536ad-0f56-4164-aeae-4095ba4851ac.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a2274507-72ed-458c-8b04-2009a63f7124.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "f97b9846-a5ae-4d8b-b908-5df120ae6eb3.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "003_샐러드의 기본 드레싱 5가지 만들기",
+    "title": "소화에 최고,다이어트에도 최고 고추장 드레싱 미션10:36409미션첨부파일",
+    "duration": 636,
+    "commentCount": 409,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f03387272aba104b876f23c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "00cc3e3f-2fbe-4cc0-b3b6-afb98dad0a8d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "82554357-6ed8-473d-adbf-f39301af8221.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "19b0d126-5633-4a9c-b563-14e409d9259d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "004_샐러드 채소 고르기와 재료 보관법",
+    "title": "효과적인 샐러드 장보기 방법04:1797",
+    "duration": 257,
+    "commentCount": 97,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f3b62271e788a000d096464",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6314ad2a-2c0f-4ad8-929f-8cac9fdf124d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2ef51d4c-33ab-42d2-bf62-d702b1466113.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e7256026-8701-4fde-99ed-d10aeacdc8d2.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "004_샐러드 채소 고르기와 재료 보관법",
+    "title": "샐러드에 적합한 채소 및 재료 고르기07:3421",
+    "duration": 454,
+    "commentCount": 21,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f03296ee37acf0db01a668e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8c2ddce0-a8a2-48a9-bac9-0dcd5c7965e1.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f83a6800-4784-499c-b92d-d4a919ee2b22.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c3f69df0-6d01-4915-bb00-84ca959c7e8c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "004_샐러드 채소 고르기와 재료 보관법",
+    "title": "샐러드 채소와 재료 손질하고 보관하는 법09:5548",
+    "duration": 595,
+    "commentCount": 48,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f03297fa237730db0f5e2b1",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8e57c5fb-1b85-4985-b619-4c3434ebab97.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "05fac5a0-02ee-43a1-a8a6-3179ce2bb8cf.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "377aeb17-3ad0-4343-afe6-03b20162fa10.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "닭가슴살 오븐구이05:3455첨부파일",
+    "duration": 334,
+    "commentCount": 55,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032b3f1657770dc826879f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "00ecfaac-db07-48d7-970c-7792fa973e7a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ef5c37bf-9b3b-4321-b99a-dcff636fc306.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "11586c4a-93ce-46da-a0bb-98d86c3c05a2.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "닭가슴살 소보로 만들기03:4941첨부파일",
+    "duration": 229,
+    "commentCount": 41,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032bb9d9de700dc26a569d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "07e500dc-5370-4e9f-9d7f-d91d02b670cc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "fa6afa65-e6cf-4e2b-9fa8-b41eec70acb0.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "40f75ba3-b83c-4242-9f03-0f4a278c58ec.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "웨지포테이토 만들기03:3734첨부파일",
+    "duration": 217,
+    "commentCount": 34,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032d043bad8c0d860dfa57",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "384dc4f3-ed29-44f7-af8a-254eb84bc236.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d42bd0ff-c02c-46a3-b059-c0f46b376766.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0e1f0c9b-4918-442b-bc68-c4d16cb35d7c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "에그포테이토 만들기04:1025첨부파일",
+    "duration": 250,
+    "commentCount": 25,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f032d3060fa7c0da91002cd",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ddfdbc3f-560d-404b-8da3-1414136e5d1b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c3cbafbe-4941-4d53-8085-f757da990971.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a10780ba-83b1-42f7-9040-48f860fe3212.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "버섯볶음 만들기05:3727첨부파일",
+    "duration": 337,
+    "commentCount": 27,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f05bc6aaafd92702f3d1789",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d1c0de95-401d-4b31-a2ad-66021e2e4adb.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "553f7c38-9c79-48ad-9588-c0edbeaa8706.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3b8e3d3c-8ebe-45c3-96dd-38e0acd436c5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "버섯구이 만들기02:3013첨부파일",
+    "duration": 150,
+    "commentCount": 13,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f05bc6932c6391955df5d6b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "60cfd5eb-f2a9-466d-b0f0-dd6b27e91ee9.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6f90f37d-62c2-451a-bb6c-791d359e4f89.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e7098667-9eca-424a-894b-24697d0216d9.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "단호박 넛츠 범벅 만들기미션07:00400미션첨부파일",
+    "duration": 420,
+    "commentCount": 400,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f05bc6a0774893cc10eb4db",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "100f4b81-771d-423a-b1cb-5a9789f4e384.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "1ba8e0cf-59c6-4d02-93c1-f69fe99cd811.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "21b2aafc-6d75-4002-8216-6d6623fd84ce.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 20,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "단호박 구이 만들기02:1513첨부파일",
+    "duration": 135,
+    "commentCount": 13,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f05bc6c3bc06e0d9965dd95",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2abc34c3-03c4-4bfb-9737-0158d0b27ca0.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f03abe87-3fb4-4caa-80d8-b9a7c87c3835.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "377f0487-941d-4c80-b1f2-223aee002dff.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 21,
+    "chapter": "005_한달을 버티는 샐러드 토핑 만들기",
+    "title": "새우 맛있게 굽기03:2225첨부파일",
+    "duration": 202,
+    "commentCount": 25,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f05bc9116e8280db0491c60",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1574d240-a5a9-4e3d-966d-f5c4f7c2a1bd.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "31a66c5c-cb8f-4f84-9ec1-5036e09c4135.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "961b277b-5328-4039-af1a-3c19f8b4a128.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 22,
+    "chapter": "006_재료와 드레싱의 꿀조합 레시피",
+    "title": "항산화 성분이 가득한 버섯 샐러드 (오리엔탈드레싱)05:5219첨부파일",
+    "duration": 352,
+    "commentCount": 19,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f03322e8323c4196665fed9",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "18234850-f9c0-488f-9eea-6b6a628e745a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c026de9d-a247-417a-adf8-3d93968730a7.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2f147e25-440f-4432-a2ae-65c0b8f00e25.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 23,
+    "chapter": "006_재료와 드레싱의 꿀조합 레시피",
+    "title": "영양소 보충은 물론 배까지 든든한 파워콥샐러드(요거트드레싱)08:2731첨부파일",
+    "duration": 507,
+    "commentCount": 31,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f03328fa8a28a0daf50846e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b5f4e4fd-e81e-4c2b-9163-8eae607e8163.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c33ae17c-43b6-44b0-8bdd-c40e9d848068.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8ce291be-ad0a-444d-b3ce-dcc9225a9662.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 24,
+    "chapter": "006_재료와 드레싱의 꿀조합 레시피",
+    "title": "배는 부르지만 칼로리는걱정말아요 - 누들 샐러드(오리엔탈드레싱)06:3556첨부파일",
+    "duration": 395,
+    "commentCount": 56,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f0333041027b07618302f7d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "4e0a0336-f09c-431a-ba60-7779a9a5a099.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "db6e9591-e1ef-4780-bd94-31688a0e2d29.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "fb609390-6e47-4b16-a02a-612f916db25c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 25,
+    "chapter": "006_재료와 드레싱의 꿀조합 레시피",
+    "title": "비타민최고,다이어트에도 최고인 구운아보카도 샐러드(발사믹 드레싱)04:5719첨부파일",
+    "duration": 297,
+    "commentCount": 19,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f03333a1027b0761830410d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bf6979a8-5edc-476e-9095-b7e6183ac1ed.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e808623b-247f-463f-a3cf-041392478f9a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a2fbbfa6-ac11-4b00-be03-13ab5ca08377.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 26,
+    "chapter": "006_재료와 드레싱의 꿀조합 레시피",
+    "title": "쌈 싸먹는 샐러드 만들기(Feat.유자드레싱)04:0210첨부파일",
+    "duration": 242,
+    "commentCount": 10,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f03380cc252af7625775e45",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "da5ea820-70be-4ef5-b576-3a856ca25496.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8cc927f6-3edf-4059-8066-34df34940a8d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "134e3672-0518-4a47-9bd5-a7a3ec3061c8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 27,
+    "chapter": "006_재료와 드레싱의 꿀조합 레시피",
+    "title": "입맛없는날 최고,떠먹는 토마토 샐러드(발사믹 드레싱)03:3619첨부파일",
+    "duration": 216,
+    "commentCount": 19,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f0339f6a5531a0db5b11a37",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ea40d45a-6423-4d18-9f17-e3fa41342fec.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "81dd7406-cc89-42f0-bfa9-b53506a4b201.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "6d667e1a-92e1-4268-8b6e-5e47e1daa143.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 28,
+    "chapter": "007_냉장고 털이용 샐러드 속 재료 만들기",
+    "title": "채소살사만들기미션05:33254미션첨부파일",
+    "duration": 333,
+    "commentCount": 254,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f03318ea8a28a0daf4fc927",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bb480e55-2435-45fe-91be-8eb3596b1330.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "00e43f7f-11b4-4fe2-ac0e-4a03a9f0f1e8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "09e5d012-6aa5-40a6-89ec-a3281a0eeb4c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 29,
+    "chapter": "007_냉장고 털이용 샐러드 속 재료 만들기",
+    "title": "과카몰리만들기04:3722첨부파일",
+    "duration": 277,
+    "commentCount": 22,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f0331b608eaa4760bc9a20f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8b665aa1-089a-4611-beba-a7425d908ea8.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "540a5c4b-f8e0-4854-a3a4-fadf6a5024c1.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8bfdc36b-5c08-4846-a2e3-7b960b4eb104.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 30,
+    "chapter": "007_냉장고 털이용 샐러드 속 재료 만들기",
+    "title": "자투리 과일 샐러드03:469첨부파일",
+    "duration": 226,
+    "commentCount": 9,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f0725b286d23a6a9f3c951b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2f9535d2-ded7-4bd8-aa0e-60e3dc458d32.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6670e22a-e035-4517-9cfd-f55a348a9a42.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "9f893cae-0cd9-4598-81b9-f9d35f6169c5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 31,
+    "chapter": "008_상황에 맞는 샐러드 레시피",
+    "title": "파티용 샐러드 - 통 로메인 샐러드05:4919첨부파일",
+    "duration": 349,
+    "commentCount": 19,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f05bcc22c44ab1cbc45ee72",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "04ea7fc1-a76b-4f5b-8012-f4236250f34b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "dc120046-d8ac-4eaa-a38a-5dfd3ca00a4d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "61df114c-6682-47b7-8b40-e0b2f8b9c207.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 32,
+    "chapter": "008_상황에 맞는 샐러드 레시피",
+    "title": "술안주로 제격 - 매콤 누들 샐러드04:387첨부파일",
+    "duration": 278,
+    "commentCount": 7,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f0723077de09b0d37011d35",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "dcdb10a3-59bd-4e6d-9718-0b9907585888.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "422c7915-53fb-477d-997b-38e20e1e2149.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "36653f9e-41d8-4ccf-911d-cd4d16f987cc.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 33,
+    "chapter": "008_상황에 맞는 샐러드 레시피",
+    "title": "도시락 메뉴로 최고인 - 냉파스타샐러드09:4917첨부파일",
+    "duration": 589,
+    "commentCount": 17,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f07249700ae510d93243fd3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "226dabcc-e788-4f4a-835c-b002f826d1fe.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "1048aa2b-f920-44d8-a1ec-60105c7a8c04.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "9642ac0c-f51a-4cde-ace0-56e37d4ed984.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 34,
+    "chapter": "008_상황에 맞는 샐러드 레시피",
+    "title": "내몸속 독소 배출에 최고 -채식페스토 샐러드05:4730첨부파일",
+    "duration": 347,
+    "commentCount": 30,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f07252213940e0d407ac633",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d1e41ee9-8431-4533-927d-380f244ecfc1.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2059f443-c85b-44c7-884b-0a6f8db6a210.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c225a22d-1d61-4315-a2d0-130ccc8bd836.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 35,
+    "chapter": "009_이색 샐러드 레시피",
+    "title": "Non 오일 - 디톡스 샐러드06:349첨부파일",
+    "duration": 394,
+    "commentCount": 9,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f065adba57c6f0db292cc14",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e6efe534-1cba-438f-a791-f67acf70e1d1.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "0c482ebb-1fe1-44e9-84b0-025b228d68f6.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "870bbb57-eb9a-47b5-99d8-011447feca70.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 36,
+    "chapter": "009_이색 샐러드 레시피",
+    "title": "치팅데이엔 역시 고기가 최고! - 불닭 샐러드미션07:23237미션첨부파일",
+    "duration": 443,
+    "commentCount": 237,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f065b097f1df61cc35572c8",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f4609419-a210-4561-8ae2-853002b24025.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2bafa9f0-fe04-412b-aebe-9dad1e6c8e8c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e3d70f81-11f3-48f2-9748-f557261b1c1c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 37,
+    "chapter": "009_이색 샐러드 레시피",
+    "title": "지겨운 고구마를 치팅데이도 먹는다구? - 키토제닉스타일 고구마 샐러드04:3712첨부파일",
+    "duration": 277,
+    "commentCount": 12,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f0713c29801e004a71f66b0",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b258fefc-cb1c-4608-b885-1986325c1264.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "49e4b3c3-f287-4f8f-aba2-fed0f29abe00.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ee943b4d-ef91-4b1b-8bea-28c941095c3b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 38,
+    "chapter": "010_각종 샐러드 팁(플레이팅, 포장, 도시락 등등)",
+    "title": "밥상 위의 꽃 - 샐러드 예쁘게 담는 그릇을 알아봐요12:267",
+    "duration": 746,
+    "commentCount": 7,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f0714056c51231639e1ba7b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0c8f950c-ad90-4c11-9f90-d558a594727f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "11d24aee-b903-46d8-8863-b08c04763feb.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "fd6b6c5a-9811-45b3-a829-235721eb35c7.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 39,
+    "chapter": "010_각종 샐러드 팁(플레이팅, 포장, 도시락 등등)",
+    "title": "샐러드는 무조건 투명 용기에? - 투고 박스에 더욱 멋지게 담아봐요15:4810",
+    "duration": 948,
+    "commentCount": 10,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f0714452f6bf36aabe016fc",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0bb748e5-5d24-468c-a504-b00332146fe3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "56ee4916-b608-4254-bd46-d4f0e5f0dfd6.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "903ddbb0-67dd-43fa-9ddc-ee6a5b29211e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 40,
+    "chapter": "010_각종 샐러드 팁(플레이팅, 포장, 도시락 등등)",
+    "title": "샐러드 도시락 예쁘게 구성해보기 - 도시락 용기 사용법07:2616",
+    "duration": 446,
+    "commentCount": 16,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f071483c2b7ec71b39e5925",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9b095d9f-e625-48c1-b0a7-d0f46fb67063.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6d71056e-80b2-45c3-af6c-97b9c7ae1a57.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b8633f42-f8c9-42c9-99bc-1741d4565e6b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 41,
+    "chapter": "011_완강을 축하합니다!",
+    "title": "건강하게 다시 만나요02:4223",
+    "duration": 162,
+    "commentCount": 23,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f033a755df923760ab58589",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "23d0348d-8bb8-4475-b9ea-93958ce3e9e4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "eac25705-5fee-4fd8-8188-940854028092.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c3690791-5336-4c4c-aa3c-c70067ad6ad8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 42,
+    "chapter": "011_완강을 축하합니다!",
+    "title": "리화쌤 레시피북 다운로드 페이지05:0035첨부파일",
+    "duration": 300,
+    "commentCount": 35,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f98f9d6fd13560013f090ba",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2432070d-7f53-4b3c-b372-ab74a6e05702.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "591604b5-6efd-4c35-b43a-80ce8e1d7605.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2a32b40c-f03b-4493-a928-5a025309c282.vtt"
+      }
+    ]
+  }
+]

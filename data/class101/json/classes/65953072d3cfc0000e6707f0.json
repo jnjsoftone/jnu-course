@@ -1,0 +1,458 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_INTRO",
+    "title": "Intro",
+    "duration": 125,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659623a63c58e9000e038c2f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "44a23e19-f288-4ac6-ad15-3aba4e9c9cdf.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ac623b01-428b-4cf3-b5b9-d28be889c7a4.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "025e1cb3-72e2-4399-88d8-f446f1f22e48.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 2,
+    "chapter": "002_윤태호의 B.E.S.T",
+    "title": "윤태호의 B.E.S.T",
+    "duration": 392,
+    "commentCount": 4,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6596241131cf71000e365abb",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d79c8936-6a3f-44bc-8dbb-ff3bcc978d28.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b47da1eb-5c7b-4ab3-bece-8dcefadd9e9c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "412a8741-d075-457f-bfb4-541a9c8e1949.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "003_웹툰이 가져온 변화",
+    "title": "웹툰이 가져온 변화",
+    "duration": 479,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "65962423f9b71a000e053c61",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cadc2bae-7653-4fb7-bc2a-6351df132b98.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "608174c1-3f02-4ec8-b8b7-b7d08e150796.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5e6beee3-880d-4613-bb8b-c396b84477c7.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "004_출판만화와 웹툰의 차이",
+    "title": "출판만화와 웹툰의 차이",
+    "duration": 698,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "65962440eb679e000e291862",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "00e89950-25a8-497c-8652-559931f4d372.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "fc9abb2b-c062-4f50-ac44-e30a0a59d501.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0de20083-7b11-44ab-bc18-ff00b4f2541e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "005_아버지는 왜 항상 죽어 있는가?",
+    "title": "아버지는 왜 항상 죽어 있는가?",
+    "duration": 607,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659624dba1a5df000e672781",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "56dc331c-4c06-4c3f-8c73-9e26ca4647fc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "530c6fa7-02da-4c34-aff2-041bb6e7f48c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "55ab59d2-7003-45dd-adf2-bcf4ff139ad8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "006_습작: 읽고, 쓰고, 생각하라.",
+    "title": "습작",
+    "duration": 489,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659624fdd3cfc0000e20f277",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "12f34e16-a6e6-4302-a559-77cc40842186.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5e693c40-4b3a-4c13-a930-c3b5ca20399c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1cf14873-00bb-4974-8f05-547d6b2a7806.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "007_나를 흥분시키는 테마",
+    "title": "나를 흥분시키는 테마",
+    "duration": 1004,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6596250ee71e93000e552924",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "274cabad-992a-42cc-a257-ca1809a8bb02.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c5a7f5f3-09f1-4661-8afc-2de0b2c7ae39.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "9dad6087-1f9e-45eb-9f1a-bc2cf8ff454f.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "008_시대를 그리는 방법",
+    "title": "시대를 그리는 방법",
+    "duration": 675,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6596252235dc6d000d798ab9",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "36828f8c-c445-4250-aee7-7fc0e5bb6df9.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b34126c0-4d77-4b8d-a1e7-86461dab8786.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7d4ca85c-16fd-4867-92ba-3757f37eaaff.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "009_취재: 너의 사람을 만나라",
+    "title": "취재",
+    "duration": 652,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "65962534a8ef60000e997713",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "76a063db-46df-4353-8284-149af36dce51.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d1720e35-702b-46d2-9c16-98ce81df54c4.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b1a489b5-2a44-43da-bbdf-c79752d794af.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "010_캐릭터는 한계가 많을수록 좋다",
+    "title": "캐릭터는 한계가 많을수록 좋다",
+    "duration": 776,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6596254f7d618c000ee19152",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f98e94c6-dbbd-4311-81fb-97c52a028894.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "3a2deb42-4177-4d03-b4da-e39c74bfeead.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "724133f9-1201-483b-956f-03287464ea81.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "011_스타일을 결정짓는 것",
+    "title": "스타일을 결정짓는 것",
+    "duration": 348,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6596256260f645000e7fe511",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cdfb31d0-ad00-44e8-8375-720c92ac275d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "062b352d-040f-428e-aff5-6a7cca7726de.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "9139b2af-dbe3-4c4e-8c88-cf44d581d026.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "012_프로의 근력: 습관을 지배하라",
+    "title": "프로의 근력",
+    "duration": 196,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6596257c27a4e7000e494002",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9a224dc7-5b80-499c-b121-cec51690bb12.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "3edab822-7c34-4b7a-a72f-8935075bfa4f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ebcdcf37-eb1b-469b-a9f9-7b4bd687da91.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "013_원고의 마무리를 무시하지 말 것",
+    "title": "원고의 마무리를 무시하지 말 것",
+    "duration": 253,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6596259227a4e7000e496db6",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3f4f5bca-6731-466e-a918-91b7902846ea.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "47a3b022-bf1c-4ef8-a55e-f3cc95a739fa.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1b7fb67d-00c5-47fa-a287-1136033815bb.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "014_작가의 비극은 노출에 있다",
+    "title": "작가의 비극은 노출에 있다",
+    "duration": 419,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659625a4d3cfc0000e2190ad",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "4ecb573c-930b-4fef-8d70-987f0eacfd4a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b913718b-e47e-4e4b-beb8-196fa849a120.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "6dfeb17b-d80e-42dd-b01e-a1819e77a034.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "015_만화가의 비지니스",
+    "title": "만화가의 비지니스",
+    "duration": 205,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659625b8eb679e000e2a25c7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "746b35c1-603f-4bf2-abcc-8651ec2885b3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2c3a1be9-81cc-4124-adb0-0513446a006c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7dca8e5b-ca94-4f6d-bbb4-b605452e916f.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "016_K툰의 세계화",
+    "title": "K툰의 세계화",
+    "duration": 209,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659625d5309432000f93ce69",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6231e454-5692-4a20-9d78-6ab010c04afb.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ee453d5a-65d5-4910-9d10-34b73152c92c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4e0365fe-382f-431b-bad2-7e0d07d4b3ed.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "017_대체되는 작가가 될 것인가",
+    "title": "대체되는 작가가 될 것인가",
+    "duration": 248,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659625e8363b5f000e0a0f9a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d1882ecc-3adb-4748-b3c2-8cb7ce701e3e.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "015da51b-1ddf-41a6-9c9d-b9c010b49d03.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c17d55d2-cc16-4f02-abe8-f6c51a3ce459.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "018_Outro: 윤태호의 욕망",
+    "title": "Outro",
+    "duration": 247,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659625f78fe7fd000e499fb7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2cf9178f-f36c-4903-b6d7-78b610d77825.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5daf58c2-9d87-4346-a535-b391bf3e0049.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0643758b-0e21-4594-98d4-625d3ccd94d9.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "019_에필로그: “어린” 실전 원고",
+    "title": "에필로그",
+    "duration": 1116,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "659b48907b9c8e000e802f74",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a3be507a-0017-46d9-aab0-4a7870e7e30d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "344dddfa-e6f0-4c9c-9334-56b610079e6a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1995d4e7-2224-4d20-b601-dae27305b86e.vtt"
+      }
+    ]
+  }
+]

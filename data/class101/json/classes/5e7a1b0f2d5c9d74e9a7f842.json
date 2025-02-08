@@ -1,0 +1,770 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_몽글몽글한 순정 일러스트, 함께 그려요!",
+    "title": "안녕하세요, 작가 윤지입니다",
+    "duration": 126,
+    "commentCount": 123,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5ea7ebc7c08fe20daf7e4e5e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d06b3f4d-ac25-44c9-b0d0-7d5fea4066ef.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d82857cc-8c61-4a72-9978-b9c19c5819be.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c213837f-1356-4f89-b98c-ea6b1289c6e5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 2,
+    "chapter": "001_몽글몽글한 순정 일러스트, 함께 그려요!",
+    "title": "클래스에서 어떤 것을 배우나요?",
+    "duration": 134,
+    "commentCount": 1732,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "5ea7ebd122194a0db625d2b6",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2e31bf41-d5df-46c8-8d06-dd3739756550.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "20e051a9-df08-4a3f-b9a4-60f64e0ad36f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ac5efe3b-5dc0-49d0-a304-7d2bae426caa.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "001_몽글몽글한 순정 일러스트, 함께 그려요!",
+    "title": "준비물, 타블렛과 클립스튜디오",
+    "duration": 131,
+    "commentCount": 48,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5ea7ebd26bdc6c6dcd2fa2cb",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9981fa51-4147-4f6f-aa57-1b64dd086976.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e86a9625-852b-420f-8093-b6bffcd4a631.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0a58734e-7c94-4a38-8af3-b02d26355005.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "002_클립스튜디오 기본 사용법",
+    "title": "클립스튜디오 인터페이스 소개",
+    "duration": 388,
+    "commentCount": 23,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb482e9a46cf417bd88c5ca",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b169865e-6c09-4cf3-8068-e99cbbe551b1.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b169865e-6c09-4cf3-8068-e99cbbe551b1.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "6d501bbb-b72b-48ba-b690-da1366c6a2c1.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "002_클립스튜디오 기본 사용법",
+    "title": "기본적인 기능과 레이어",
+    "duration": 227,
+    "commentCount": 25,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb482ee0c435f5582a32ef5",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ba76e13d-01c8-4996-a529-e49ffe49660c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ba76e13d-01c8-4996-a529-e49ffe49660c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8a6036c3-b020-4404-8175-cdd3f80fb325.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "002_클립스튜디오 기본 사용법",
+    "title": "자주쓰는 단축키 설정",
+    "duration": 211,
+    "commentCount": 22,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb482eecf81d2779b3bd501",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bedb1a2a-879c-493b-8b6a-9d4902f73014.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "efe0b176-f98c-4b1a-a6c1-0fbfbf600084.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "30aabbff-f115-40b8-a72b-cdeb999457ff.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "002_클립스튜디오 기본 사용법",
+    "title": "사용 브러쉬와 소재 안내",
+    "duration": 529,
+    "commentCount": 1204,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4857f78deb417aac63d07",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "fb21f9b1-9aa4-4b8f-9b7a-fd3e9152f6d5.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "fb21f9b1-9aa4-4b8f-9b7a-fd3e9152f6d5.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c18f8871-a46f-4a7d-8a7b-619c8d64eb73.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "003_매력적인 캐릭터 얼굴이란",
+    "title": "조화로운 얼굴 비율 익히기",
+    "duration": 513,
+    "commentCount": 960,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4d90482518977ac1b83ba",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d50fef95-1a04-4429-b6fc-51b5ee795eda.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d50fef95-1a04-4429-b6fc-51b5ee795eda.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "200edf3f-3c4c-4a70-ad11-49f839ab16eb.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "003_매력적인 캐릭터 얼굴이란",
+    "title": "데포르메에 따른 다양한 그림체 만들기",
+    "duration": 874,
+    "commentCount": 224,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb4d913e662c52975dd4d25",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d92469af-e92e-49da-a151-74ba3e8d7d02.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b712904f-3a11-41bb-aba7-236ec87def38.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0e3f711a-969b-478c-8833-bea71fbe340f.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "003_매력적인 캐릭터 얼굴이란",
+    "title": "캐릭터 특성에 맞는 이목구비 그리기",
+    "duration": 476,
+    "commentCount": 703,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4d914dacfe2179d475760",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2717e1c1-973f-4c0e-97a3-747c22e1654c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5499c715-1fa4-400a-b1a0-83164d6e388a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a601f26f-b3a3-4cdf-bd88-a6ddc04c7068.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "004_자연스러운 인체를 그려보자",
+    "title": "기초적인 인체 비율 맞추기",
+    "duration": 571,
+    "commentCount": 72,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb4da19373f3e17a931641a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "da9ca279-c2d0-4bb8-a1af-e0da7407d18e.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d81c1db1-bfd1-4bcf-95cc-4107d9763cf0.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "fc23f56a-6c06-423d-8fb2-ebfb7e42474a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "004_자연스러운 인체를 그려보자",
+    "title": "다양한 포즈를 그려보기",
+    "duration": 496,
+    "commentCount": 581,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4da1dbb7b695581fe8798",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "11f9489e-f974-4af7-b0bd-1181553c6771.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c4c5390a-d25c-4c43-a521-793938ccbce9.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "fd1a5dc0-12ea-4996-8696-7b2c4e06636e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "004_자연스러운 인체를 그려보자",
+    "title": "손 디테일 살리기",
+    "duration": 706,
+    "commentCount": 489,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4dd2d02c4bc0da9d95dd2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a3ac769f-9038-4f71-98c5-e809b279cbb9.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a56bc3eb-27c1-472b-8d7c-a063ef2f769f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b918ec88-4ca4-44cb-8bf1-cfa6d0c81308.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "005_재질이 느껴지는 옷을 그려보자",
+    "title": "잡아주고 풀어주고, 주름의 기초",
+    "duration": 394,
+    "commentCount": 38,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f16af7049f80b0dd7c2611a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1e46c601-9cce-4372-b37a-5c5aa2f94945.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "15caff19-db9b-43b1-a9cf-287d66aa5d58.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3a312b63-4a3d-4a79-b2a0-5a5313db471e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "005_재질이 느껴지는 옷을 그려보자",
+    "title": "재질별 옷주름 그려보기",
+    "duration": 306,
+    "commentCount": 44,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f16af7c2a76316e08413ed7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3d8026ac-6ded-4196-8522-67663daedafc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8e764bf7-787d-4526-9590-a1375971b12a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1c43ca79-3211-46f7-b8a8-d1f11de4c667.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "005_재질이 느껴지는 옷을 그려보자",
+    "title": "캐릭터에 옷 입혀보기",
+    "duration": 707,
+    "commentCount": 371,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f16af874174a70da8051677",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "5f882342-cfa2-43df-b9e9-c2f709f7fe9b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "86669742-f44b-496b-a9b7-852dc418b3bc.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d3ec6c31-bb15-43cf-b28f-74bab791736b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "006_찰랑찰랑 머리카락 휘날리기",
+    "title": "머리카락의 흐름 파악하기",
+    "duration": 548,
+    "commentCount": 28,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb4dd18f9dd9277b540b902",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a3531ea6-5627-4fa3-946a-95336997cea6.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "00b2e9a2-0963-4c42-8da1-35baa65cf6d5.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3f312cec-4349-4359-9c97-e473409633f1.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "006_찰랑찰랑 머리카락 휘날리기",
+    "title": "다양한 헤어스타일로 개성 부여하기",
+    "duration": 513,
+    "commentCount": 330,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4dd180c65880dbc13e5a9",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "90838b52-d262-400d-a031-640f9fc25495.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2be58d09-c1df-4439-b54c-2ea11a5ff18d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7a1d6199-62b6-43b5-b866-62d441e05d9b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "006_찰랑찰랑 머리카락 휘날리기",
+    "title": "바람에 휘날리는 머리카락 그리기",
+    "duration": 1270,
+    "commentCount": 297,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4dd19c76a0477a863aa19",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8de358c5-e788-476b-9496-0f68995ee0d6.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "36a932a5-a286-4e7b-b205-e09805d397dc.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d47a2033-7165-401d-acdb-45084b018f5a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 20,
+    "chapter": "006_찰랑찰랑 머리카락 휘날리기",
+    "title": "머리카락 채색하기",
+    "duration": 2197,
+    "commentCount": 262,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f16afb73bcd8e0da6bd219c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "4ccda992-d546-411e-b073-2cce5be0bd9a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "db802787-c467-4c40-b728-83389435319b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e1f2cd55-da97-4d14-9e39-14fdce7445b6.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 21,
+    "chapter": "006_찰랑찰랑 머리카락 휘날리기",
+    "title": "누워있는 모습의 머리카락 그리기",
+    "duration": 963,
+    "commentCount": 55,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f16afcb4fb4b61465a80dfb",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "098fcac3-c1a1-4015-8347-405b18d312a5.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d594d924-776d-4ef6-92de-020e11fc7274.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1bbfd9dc-0433-47fa-bae9-bcf52e361d78.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 22,
+    "chapter": "007_내 마음대로 연출하는 일러스트",
+    "title": "배경 사진을 이용하여 레이아웃 잡아보기",
+    "duration": 598,
+    "commentCount": 218,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4dedccf81d2779b54c634",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "545ecf76-9661-465c-9d24-959ab5a8c33c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e8746977-abd9-49b0-ba05-13bf5216c83d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "345cd282-ba0c-40a2-ad17-3daf5fb936c5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 23,
+    "chapter": "007_내 마음대로 연출하는 일러스트",
+    "title": "다양한 레이어 속성을 이해하고 보정하기",
+    "duration": 497,
+    "commentCount": 46,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb4deddcf81d2779b54c637",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e555387b-eaf6-472a-97bf-b1c7524ff09c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a0582d3f-2b74-4dd4-82aa-c2c8f1b9cfbb.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "fea0da31-8d08-43fc-bb00-d5b212786601.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 24,
+    "chapter": "008_맑고 화사한 수채화풍 채색하기",
+    "title": "커플 일러스트 구도 잡는 팁",
+    "duration": 1749,
+    "commentCount": 190,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f16b03d2301320db5d17721",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "79a12d16-6dcb-46d9-bf98-a72f4dbb5385.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5b63b3c8-87bf-405d-ad25-1e76efc1321a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3dee4256-8f1e-41a5-9a1f-38f161cd6bf9.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 25,
+    "chapter": "008_맑고 화사한 수채화풍 채색하기",
+    "title": "실패없는 색조합 알아보기",
+    "duration": 588,
+    "commentCount": 189,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4db7dbb511d0db53223ac",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "4ba8e598-af9d-4f40-8d4f-c6304824b14d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "4ac18abb-98b2-4be4-81f0-7d54518e986a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5dcfb982-e597-47db-9bdd-965740bd7737.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 26,
+    "chapter": "008_맑고 화사한 수채화풍 채색하기",
+    "title": "반짝반짝한 눈 채색법",
+    "duration": 505,
+    "commentCount": 17,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb4db7e41c3cb77a2ed245e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c25dfc58-99d0-4f75-9c0a-65844474d55c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6ef7ccfe-e7fc-48ce-b3b5-714238c2fb00.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3c4099b9-ebff-44a8-8d42-6d89f97cad66.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 27,
+    "chapter": "008_맑고 화사한 수채화풍 채색하기",
+    "title": "완성도를 높이며 채색 완성하기",
+    "duration": 1646,
+    "commentCount": 176,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5eb4db7f41c3cb77a2ed2461",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "119b6a2c-a76b-4f50-b307-2c3aeedafd75.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "cbd2fa04-32db-4b00-91c0-18ec5e5989bb.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1b82c34a-65dd-48ce-a977-ef15a890878a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 28,
+    "chapter": "008_맑고 화사한 수채화풍 채색하기",
+    "title": "맑고 화사한 느낌으로 보정하기",
+    "duration": 279,
+    "commentCount": 167,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f16b054bda7b972d0a9f00b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6ba86c72-f652-4f6c-ae62-ba644d7e3ee7.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "26d283a5-3783-4b48-92d1-e8855f910470.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "dbd1016a-139c-4708-8ae0-9113f3dec4b7.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 29,
+    "chapter": "009_보정 레이어를 더욱 활발하게 활용해 보자",
+    "title": "보정 심화 - 커플 일러스트 채색하기",
+    "duration": 1310,
+    "commentCount": 13,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb4dc2051373f67067bdfc2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9949dd64-3dcb-4d95-8154-3068bcd8f417.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "4ea05952-5c3d-4b9c-bd6f-db276c2cc8a3.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "da115244-9342-44c9-bd10-2889b38e653e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 30,
+    "chapter": "009_보정 레이어를 더욱 활발하게 활용해 보자",
+    "title": "보정 심화 - 3인 일러스트 채색하기",
+    "duration": 1231,
+    "commentCount": 6,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eb4dc3de662c52975de90d4",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a8ffc84e-8729-4c25-8d9f-df7bda1d05cb.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "9c6ac829-f4fd-481f-ab7c-36b4893c2a1b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3c52c000-4758-44e2-926a-1749f8fdea2c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 31,
+    "chapter": "010_간단한 애니메이션 만들기",
+    "title": "눈 깜박이는 애니메이션, 셀 채색으로 완성까지",
+    "duration": 1052,
+    "commentCount": 14,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5eccd522f964c60da1db81a4",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1a78e87a-3452-4ace-9a16-090c4c09cae2.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "3d12197c-fbb8-4c58-9a9a-8201181993ba.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "00af1f5b-db2d-4db4-a64c-6e02d875222e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 32,
+    "chapter": "011_클래스를 마치며",
+    "title": "여러분의 그림 세계를 넓혀가요",
+    "duration": 140,
+    "commentCount": 28,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5eb4e168ab7cc70d8fd16b8e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "4bc55cba-23e7-438f-9781-674c7da898c7.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5b9b639d-f387-4f9e-9da3-fa05592fce5a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b3ad454d-e166-48a9-9f80-701c4d977de7.vtt"
+      }
+    ]
+  }
+]

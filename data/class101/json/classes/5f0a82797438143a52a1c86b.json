@@ -1,0 +1,698 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_여러분 안녕하세요. hyunpeach_입니다 :-)",
+    "title": "안녕하세요 크리에이터 현피치 입니다",
+    "duration": 266,
+    "commentCount": 83,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f4fc0c3337390002d2634cc",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bdb1b767-bb20-4eb6-a62c-c6f5d7619293.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "495a8564-cedd-4192-b94d-ab3b01ddc8ac.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "03596edd-a4c5-4d53-9e04-5bead79158ba.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 2,
+    "chapter": "001_여러분 안녕하세요. hyunpeach_입니다 :-)",
+    "title": "hyunpeach_와 함께 할 인물화 클래스를 소개합니다",
+    "duration": 201,
+    "commentCount": 1690,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "5f27a08ded2c180021dd1885",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "98c2a453-296c-4b8a-a110-fbc5bae7cc0c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ad8a9e98-f3d7-4cb6-b868-2ebf7db2d751.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c0baa295-8c0d-4c7d-9b4f-d563bd7fe060.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "001_여러분 안녕하세요. hyunpeach_입니다 :-)",
+    "title": "클래스의 준비물은요",
+    "duration": 272,
+    "commentCount": 35,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f362de26c4dfa000c938ff1",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f1d1df97-5125-46f7-b1c2-86d7585291cf.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5059fa3f-9ede-4543-8a7c-36b55c0746a8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b4b9b3f5-34d9-443c-a292-9bc2966e8df5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "001_여러분 안녕하세요. hyunpeach_입니다 :-)",
+    "title": "프로크리에이트5X 업데이트 내용 안내",
+    "duration": 300,
+    "commentCount": 39,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5fbcf5f65101ad0013166461",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bc0f01ec-6a38-49a3-a97d-042620ebd72f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2347c0a2-ebd3-4178-a67e-81cb96ad0108.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "afdf8b32-d005-4fd8-90b0-0b666a1646c3.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "001_여러분 안녕하세요. hyunpeach_입니다 :-)",
+    "title": "프로크리에이트 5.2 업데이트 내용 안내",
+    "duration": 300,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "61cacf23f477120014f0fa5b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bc0f01ec-6a38-49a3-a97d-042620ebd72f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "00fc65bb-c881-4f0b-a2c2-194cde45389f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d73c04ac-1398-4c4b-99c2-8bcaa722a275.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "002_그림 어플 프로크리에이트에 대해 알아보기",
+    "title": "프로크리에이트의 기본설정, 툴에 대한 개념",
+    "duration": 658,
+    "commentCount": 13,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f363087d2e065000d12fe37",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c90975ed-df3c-401f-a603-b617a09b75d3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "630f937a-7a02-46d1-8d6f-479e87fe7818.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "f72d7dbc-de07-4f6d-8709-42fcca20510b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "002_그림 어플 프로크리에이트에 대해 알아보기",
+    "title": "자주 사용하는 브러시, 레이어의 개념",
+    "duration": 861,
+    "commentCount": 41,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f363320444f6f000c9c0223",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "012776fa-02f4-4699-889c-de7894415dfe.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d62172b5-2a99-450c-94b0-1e3a673a37ee.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3172511a-d235-4bb2-8e9e-74fdd0977f3d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "002_그림 어플 프로크리에이트에 대해 알아보기",
+    "title": "점선면과 색상 선택(채도, 명도)에 대한 기본 지식",
+    "duration": 1402,
+    "commentCount": 1176,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "5f3630d0f29f970018560cd2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8f35b412-9dd0-4bdf-8093-7b05f058de37.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c76a7014-f80d-4879-9e7f-3fa23ea17e9f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "afc06339-adbc-49e0-a56f-088d32dacc15.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "002_그림 어플 프로크리에이트에 대해 알아보기",
+    "title": "기본 브러쉬를 사용하여 구 그려보기/선 강약 연습하기",
+    "duration": 1062,
+    "commentCount": 1191,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "5f363a58aa13b20013cb5f6d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ffa08f4f-94e5-42a4-909f-1a32599c6914.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "886ae094-c77a-438d-a1d8-dbb31f6d54f0.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e48a9bde-63c6-4612-a540-9918db4e0ec9.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "003_쉽게 그리는 인물화 스케치편",
+    "title": "Hyunpeach_만의 안정적인 인물 스케치 방법!",
+    "duration": 2170,
+    "commentCount": 357,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f363273b2aece001d21a5ab",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "118348ef-3b1a-489f-bf13-8c991b2d1ad0.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "cfe1266e-6fc0-4e3e-9c90-91c1c50a9485.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7f449e19-bb3b-454f-9dac-5a162daa5c7d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "003_쉽게 그리는 인물화 스케치편",
+    "title": "각도에 따른 눈코입 배치, 스케치 팁",
+    "duration": 1565,
+    "commentCount": 727,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f3632b384c8e8002ee2b5fe",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8f4947d4-e4c7-4b4c-be3d-a3d9f2876db3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "4e449967-8d35-46cd-a9e0-9ea7b11ca998.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "6e629543-08ff-49ed-bb44-f9f53b33662c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "003_쉽게 그리는 인물화 스케치편",
+    "title": "눈의 구조와 속눈썹/눈썹 결에 대한 이해와 응용",
+    "duration": 2413,
+    "commentCount": 304,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f363287f28b21000e6d412e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "74d3653e-e415-4a62-b678-74ca23c1f2e4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2de426f6-b4ed-4d20-a496-c1a7d6a069fd.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a67145e7-fd38-42f5-98c1-7f590ec42ea8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "003_쉽게 그리는 인물화 스케치편",
+    "title": "입의 구조에 대한 스케치 선의 강약",
+    "duration": 1516,
+    "commentCount": 525,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f36342184c8e8002ee34bc4",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "eea4e22d-3074-4422-af62-27ea6f840601.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "99ca610a-f37a-4aba-b9b9-54d6dde8a610.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1023b119-e5ef-4518-b76d-7770b73fb6c6.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "004_쉽게 그리는 인물화 채색편",
+    "title": "실전! 채색 응용해보기",
+    "duration": 2213,
+    "commentCount": 465,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f3b60a4dfd83e00169aad7a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "df947d3f-83f8-4942-9bf0-f9e486a0afad.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "cfccd115-cc5c-4f88-8328-a60b5f122a6e.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "04e8419d-76aa-417c-9da0-5be3f80520db.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "004_쉽게 그리는 인물화 채색편",
+    "title": "실전! 채색 응용해보기",
+    "duration": 1857,
+    "commentCount": 120,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f3b5de20f40260019b880e2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "07984e38-9e94-4e96-a156-37fcf9a7bd10.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8350fa81-5f3a-4041-bd6d-0a510f2ed016.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "743320dc-d6cd-43aa-8377-87579f25d595.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "004_쉽게 그리는 인물화 채색편",
+    "title": "실전! 채색 응용해보기",
+    "duration": 1865,
+    "commentCount": 117,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f69b5d8af6df5000795046c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8506a5db-c0c8-4b40-b703-d796641a4ee0.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6af7d411-7553-431c-9962-2c77f15d99a3.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1293eb7b-5a27-404d-b29a-adba3629e3d0.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "004_쉽게 그리는 인물화 채색편",
+    "title": "실전! 채색 응용해보기",
+    "duration": 1381,
+    "commentCount": 92,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f4fb41595340f00241c7008",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f6f34c4f-2437-4dd3-ba7e-059b4338e746.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "cd233a81-676d-4df3-a0bc-f0a232054fb8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "912a3a60-c85a-4dad-aa80-744493726184.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "004_쉽게 그리는 인물화 채색편",
+    "title": "실전! 채색 응용해보기",
+    "duration": 1029,
+    "commentCount": 292,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5f3b48a31f817b002424269c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ff236472-5bbd-483e-85ad-dbc81631acb5.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "608d76e1-7217-4717-845e-49963c417af7.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e28e6de0-19a5-4a48-b53c-f11220551a51.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "004_쉽게 그리는 인물화 채색편",
+    "title": "실전! 채색 응용해보기",
+    "duration": 1007,
+    "commentCount": 78,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f69b5da8e5ec7000627a0a1",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2326587a-60d7-4a9d-8635-f16d99a88b2e.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "1b28a477-4d34-46f0-9b70-69c3d1a46686.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "fc5474fc-15b2-44c3-9066-f28b646d3b85.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 20,
+    "chapter": "005_차가운 색감의 정면을 응시한 여성 인물화 그리기",
+    "title": "인물의 사진을 보고 닮고 예쁘게 스케치 하는 방법",
+    "duration": 2588,
+    "commentCount": 85,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f3ceecad9e0e1000c3f52e9",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "63a9ba88-cb31-452a-bf0c-6343548e59b6.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f0134958-a34c-4780-bdc2-cd37d9f8c2c9.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0737789b-fdaf-4d41-bb36-85488246a3ff.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 21,
+    "chapter": "005_차가운 색감의 정면을 응시한 여성 인물화 그리기",
+    "title": "맑은 색감으로 전체적인 톤 묘사하기",
+    "duration": 4207,
+    "commentCount": 38,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f3ceed35a569f00280f90e8",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3e9eb183-f22f-456e-a18a-a3e16c68f9ac.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "622a8a74-2980-4164-bd67-1f494aec9600.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b76f94ec-5f08-4623-8927-860a3b985d9d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 22,
+    "chapter": "005_차가운 색감의 정면을 응시한 여성 인물화 그리기",
+    "title": "이목구비 강조와 결 표현 후 마무리",
+    "duration": 5234,
+    "commentCount": 212,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "5f3ceed5ad29d4000d31b379",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8ba268bf-d943-4684-bde4-18bd3f8ae9ab.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d16e73fb-3185-4dfc-955d-e2c1150a41ec.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c7b90bdf-04c3-4ec7-89ce-2d924fa26400.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 23,
+    "chapter": "006_퓨어한 느낌의 묶음 머리 여성 인물화 그리기",
+    "title": "묶음 머리 인물 예쁘게 스케치하는 방법",
+    "duration": 2334,
+    "commentCount": 30,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f3636c5444f6f000c9e2748",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c387c0ef-8c7a-4b56-9f3a-38baaad6f2a9.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "915c2650-c585-4b10-ac54-2517c0454feb.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8509529c-3394-4223-966d-6ae14b3e956a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 24,
+    "chapter": "006_퓨어한 느낌의 묶음 머리 여성 인물화 그리기",
+    "title": "밝은 느낌으로 전체 톤 묘사하기",
+    "duration": 3782,
+    "commentCount": 16,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f3637e7aa13b20013c9cd8d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e7040807-bf30-4060-8967-0ed5ee106a59.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e7cda231-9aef-4d18-bb28-e9b9e7b85936.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "6bd0594b-50fc-4e10-a96a-2174546348c2.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 25,
+    "chapter": "006_퓨어한 느낌의 묶음 머리 여성 인물화 그리기",
+    "title": "이목구비 강조와 결 표현 후 마무리",
+    "duration": 2125,
+    "commentCount": 142,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "5f36383233c891001a6a18f1",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9f28c38e-e068-4b8d-8a15-2a1b667874f7.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8a7f3b2e-6ad5-45ae-a7a4-6e68f4b2569b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "08d2700c-81b4-4bad-9172-878bdb97aecf.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 26,
+    "chapter": "007_클로즈업 된 여성의 인물화 그리기",
+    "title": "클로즈업 된 여성의 인물 스케치 방법",
+    "duration": 1770,
+    "commentCount": 18,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5f3636c785e4400013754ca3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d7e8a15b-fcb3-4ffe-ba81-a37594aeb2bb.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7a033f59-3bcf-4a7f-8ad6-e2ec5646525b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "17bdc221-b87f-4a92-a819-ba12def589ea.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 27,
+    "chapter": "007_클로즈업 된 여성의 인물화 그리기",
+    "title": "피부 결 표현하며 전체 톤 묘사하기",
+    "duration": 3177,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f36386a33c891001a6a3b5c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "601a5517-600c-4a7e-9a06-61d364896c2c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "11ba09ba-4a48-4305-8511-710b03c51029.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "430663dc-2d99-4841-853b-ad403b40e010.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 28,
+    "chapter": "007_클로즈업 된 여성의 인물화 그리기",
+    "title": "반짝 반짝 예쁜 눈과 촉촉한 입술 표현 그리고 마무리",
+    "duration": 1926,
+    "commentCount": 115,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "5f36386ca911fd0014b31870",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "7f5fd185-7f8e-4cab-9b2f-def7e1f33258.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ee7afc51-005e-43f4-97c5-2640c9d7d38b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "77e7fe95-df6a-48de-825a-6a8ecbc584a4.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 29,
+    "chapter": "008_완강을 축하드려요!",
+    "title": "완강을 축하드립니다",
+    "duration": 175,
+    "commentCount": 20,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5f3638e2c4c337001ae93f4d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "5fcc69b7-5359-4641-8f48-090d4ba006bc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "08c1c6bb-e8eb-4682-9b16-f687546d06f5.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "243faa6a-d3ab-4ffe-96a9-5d534a42dc26.vtt"
+      }
+    ]
+  }
+]

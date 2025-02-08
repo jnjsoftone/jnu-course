@@ -1,0 +1,936 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "수업자료 내려받기",
+    "duration": 300,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "646f098c673fe6000e5bcc5b",
+    "subtitles": []
+  },
+  {
+    "sn": 2,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "입력 및 편집",
+    "duration": 2383,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e16b4d9d018091a06e6",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "693239e8-2d7b-4adf-b5da-a4fa7ad69379.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2c5356cb-c791-431b-9d1a-ea7386289081.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8ccdc3fa-157d-4013-9ccd-b6e07a0e2718.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "데이터유효성검사",
+    "duration": 1525,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e17b4d9d018091a08f7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3976d20c-ff1a-420d-ab93-8196edc138db.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "60767349-4a86-4413-ab41-df6310367b69.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "799b3e80-e387-4d95-a119-4b6aea0ff4b7.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "필터",
+    "duration": 2394,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e19b4d9d018091a0b21",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6a7ced18-daf8-49f2-bf8e-4394494d235d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "9e1e720d-fb6f-4016-8b8e-fe24b7e36194.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "73d08ed5-13dd-4636-a925-a17043587dc6.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "조건부 서식",
+    "duration": 2719,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e1ab4d9d018091a0d64",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "436314a0-e3e7-4c21-aff2-e3dc0a9ac1b6.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6b4be143-59de-43b2-87b5-d016720ac699.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4435db7a-c7ec-407c-a018-684ed1bc0d08.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "피벗테이블, 데이터표",
+    "duration": 1097,
+    "commentCount": 4,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e1bb4d9d018091a0fc0",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "85609f43-9e01-4be1-ba43-e4ffccfc115d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7f847105-4e88-4430-a4a9-d75f7a0ce879.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "eb1f7e40-3ca6-49bb-bba4-e55ee95d8632.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "외부데이터",
+    "duration": 1674,
+    "commentCount": 4,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e1db4d9d018091a1235",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b3a5dd87-d1c4-4e59-86c2-6b07985b294d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "673e1ffe-19e7-4c6e-96ad-75e5a67820ea.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7421af00-15b6-40ba-9574-b0f0cf320221.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "피벗테이블",
+    "duration": 1348,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e1db4d9d018091a14c3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b92a2342-9253-4f7f-8deb-708413c376c6.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "01051905-5f9e-418c-97f5-7034c21bb93d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "23cbb359-c8aa-4784-b078-c3874d94ad0d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "데이터관리(부분합, 목표값 찾기, 시나리오)",
+    "duration": 2320,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e1fb4d9d018091a176a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b67050bb-d27d-49f8-94ca-c810670d1f41.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "08ec0daf-fcd0-42c6-b635-980da068b62c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e3c8f714-6b88-4c0c-9178-1e296f6d0b59.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "차트",
+    "duration": 1404,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e20b4d9d018091a1a2a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cd04e1d1-3f27-40df-a444-3fa0c6cac726.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "189b1e05-a0e7-45f9-b138-fca8f08351e9.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5cf30f62-34dc-453f-84d1-eb8972dd460d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "매크로",
+    "duration": 2323,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e22b4d9d018091a1d03",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b2e90af0-025e-4e29-ae6e-42d73b669981.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f4240e85-eb36-4c18-ac2e-9f8fe09b9582.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d12961f7-1149-486c-a2f2-ecc85409caee.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "프로시저",
+    "duration": 2799,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e23b4d9d018091a1ff5",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d1b29db3-bd36-4d98-92a8-66d73a131d5b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8e9c57ee-09d3-4511-8759-25ccd04a5eed.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ebb34850-3b9f-4726-877e-cae6e529f715.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "함수(날짜함수, 문자열 함수, 논리 함수)",
+    "duration": 1587,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e24b4d9d018091a2300",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "5b30f41f-5089-4268-8b67-85191ff8d8fa.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "0439cc1e-60d4-4dff-a8c5-c2e688bb69c4.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e1e681d5-af8a-4097-a6ea-ba40361db9db.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "함수(찾기와 참조 함수, DATABASE 함수, 통계 함수)",
+    "duration": 1332,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e25b4d9d018091a2624",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6ac45bf5-de2f-43c1-ad20-7b0e48d97a56.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f445f3f4-cf62-4371-86f8-f56f0da37536.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c74913f1-531c-4be6-b2b3-b5ef3ccc1c11.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "함수(VLOOKUP 함수, OFFSET 함수 MATCH 함수)",
+    "duration": 1460,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e26b4d9d018091a2961",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ca231848-8dad-4ccb-9451-e03198e07350.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "dbef3c19-ec7d-4b8a-94c2-bc36007ea1ed.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "33f5cac8-6b94-4e6e-9143-39d5b5bb55fc.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "함수(재무 함수, 정보함수, 수학과 삼각함수)",
+    "duration": 1964,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e28b4d9d018091a2cb7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ab1e6d3d-fb0e-4ae1-9069-c270acb96c9f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "264fe8ca-7000-4631-8fc0-f4c168cca743.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5cc02173-b7a0-4562-be65-a0dda9924a09.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "함수(FV함수, PMT함수, 배열함수)",
+    "duration": 1501,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e29b4d9d018091a3026",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c71cfe02-90e4-4c5f-92dd-948ae4e0d46f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "3e7bf78c-b874-4273-8e82-98364d80e931.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8d06b8b3-cd44-43e0-acc9-bd71bb95b30d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "사용자 정의 함수",
+    "duration": 2003,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e2ab4d9d018091a33ae",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d379deb1-b04a-4dba-90d8-8761d2c82a42.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "cce39af2-a919-4d5d-a5bd-849b7b855878.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8e9a9351-4e18-447a-be9b-1fbcf2516ce5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "모의고사(고급필터, 조건부 서식, 함수)",
+    "duration": 1862,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e2cb4d9d018091a374f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "72755eb6-3df9-4fc6-bfde-2555654059bc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "25652ece-4ac2-4fcf-8cff-2a5237f20676.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d0420c1b-cedb-44a7-b9cb-73f597f4b390.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 20,
+    "chapter": "001_컴퓨터활용능력 1급 실기-스프레드시트",
+    "title": "모의고사(피벗테이블, 부분합, 차트)",
+    "duration": 2213,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e2db4d9d018091a3b09",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "43115159-d5e4-4470-9b9d-686254ace93f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a8ec3f33-dc87-4c95-a581-482660d2990f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ea899f87-5520-400e-a68a-7cd254e372c0.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 21,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "수업자료 내려받기",
+    "duration": 300,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "646f0a057bc07a000e1eafca",
+    "subtitles": []
+  },
+  {
+    "sn": 22,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "액세스 기초(데이터 형식, 입력 마스크, 형식 속성 )",
+    "duration": 1326,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1dfbb4d9d0180919eae5",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "79e8e8cb-89f8-45c5-8a91-f9e1b1e3450d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6c59554c-983d-4e73-a277-d0f35dd7d108.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e1715452-6877-4581-8e9a-3b92e25f949a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 23,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "DB 구축1(기본키 설정하기, 유효성 검사 규칙 설정하기, 데이터 형식 설정하기)",
+    "duration": 1764,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1dfcb4d9d0180919eb7a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "611b7aea-95df-41b1-99fd-9a09dc8aab00.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e452b0a2-b09b-408d-9960-da80a4290e05.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ae533c60-402a-4028-9930-475e256c9d0d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 24,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "DB 구축2(조회 속성 작성, 오늘 날짜 자동 입력, 지정코드 저장)",
+    "duration": 1440,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1dfeb4d9d0180919ec28",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b34e583e-4f5e-429f-9316-79ae8f1a62d0.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2be5d3af-84bb-4d71-a7da-a4d0f3633edf.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "024b4a42-cb6e-4a2a-8b0c-677723cf0362.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 25,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "DB 구축3( 테이블 관계 설정, 외부데이터 가져오기, 외부데이터 내보내기)",
+    "duration": 2078,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1dffb4d9d0180919ecef",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "4cd4cc52-4436-41e8-baf3-5915bf35cbc7.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a2c9b592-0a94-4c49-a98a-0ac1a5a07658.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "34d3fabf-2976-4077-93c2-8637dac0b5ba.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 26,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "입력 및 수정 기능 구현1(구성 요소, 폼 실행, 폼 속성)",
+    "duration": 1329,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e00b4d9d0180919edcf",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c71069a6-46c1-4380-8e3a-6d1080582757.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "225f2ab8-31b7-4d36-bc58-88f898d39e5c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "912227c4-b338-4f0b-8f47-8fc0c831c222.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 27,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "입력 및 수정 기능 구현2(폼 완성, 기본 보기, 속성 설정, 레코드 원본 설정)",
+    "duration": 2017,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e01b4d9d0180919eec8",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "483aee47-11bf-49b5-a1ce-f33714721a80.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "53ad2f9e-6019-4565-881c-bfb4e7a5d6e0.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "70892f21-ddd7-45e8-8a13-a77a064cdc23.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 28,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "입력 및 수정 기능 구현3(계산식 설정, 레이블 컨트롤 작성, 컨트롤 생성)",
+    "duration": 2648,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e02b4d9d0180919efda",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a4101acf-8e91-4fd7-9e52-198973b63e3c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "9ea81625-fdf7-4329-aa5e-d04b015f7dac.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "91850c30-3d52-4a49-b0e3-8e2c86683a16.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 29,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "입력 및 수정 기능 구현4(탭 순서 설정, 명령 단추 생성, 하위 폼 추가)",
+    "duration": 1285,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e03b4d9d0180919f105",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a20a63b6-579f-4ecf-aaae-2b7cb42f626a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b4d0925f-44fc-46d0-b3ff-c34048154330.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2aa5344e-d294-467a-80f9-abaf5a150e00.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 30,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "조회 및 출력 기능 구현1(보고서 구성, 속성 시트 실행, 보고서 종류)",
+    "duration": 1973,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e05b4d9d0180919f249",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8bbfa821-5768-42ee-8671-57c65e78bf49.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "872fd279-84a1-47c0-a163-56c904444d67.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "496e53aa-056e-4f70-aec2-e533ecfa2b8d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 31,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "조회 및 출력 기능 구현2(오름차순 정렬, 보고서 바닥글, 페이지 바닥글)",
+    "duration": 2320,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e06b4d9d0180919f3a6",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "435f8e8b-3ebe-4a45-b048-b651dacddc71.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "60605fe8-807c-402f-910e-86e78fcc1b26.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4315d40f-bae4-4d94-b2c1-dce1a640e54e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 32,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "조회 및 출력 기능 구현3(이벤트 프로시저 작성, 폼에 표시하는 데이터 변경)",
+    "duration": 1648,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e08b4d9d0180919f51c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "fa7d9093-8db4-4c31-87e4-e2d88bf76a69.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "4a4ef5f0-9b6f-4654-b1d4-a42522485450.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4cda779e-c0dc-478b-85e4-981afaa11cba.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 33,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "조회 및 출력 기능 구현4(폼 닫기, 조건에 맞게 폼 열기, 조건에 맞게 보고서 열기)",
+    "duration": 2149,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e09b4d9d0180919f6ab",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a3df27b2-03b1-436b-b708-ea28553a101d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2c50691e-6f2d-4fab-82bb-70770aaa1c33.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8abb2ce0-dd83-4f76-bb73-b9e457641d1d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 34,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "처리 기능 구현1(소속지점 쿼리 작성, 판매현황제품 쿼리 작성, 재고 쿼리 작성)",
+    "duration": 1508,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e0ab4d9d0180919f853",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2226f552-4ebb-45e8-96b5-04a53f21f19c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "687d83c8-dacd-43d2-b732-07f61e1d7d24.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3953ddc9-e2ad-42c9-801b-3276312889b6.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 35,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "처리 기능 구현2(크로스탭 쿼리 작성, 업데이트 쿼리 작성, 예약어 연산자 활용)",
+    "duration": 1870,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e0cb4d9d0180919fa14",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2efcbd16-3026-4c6b-a2a3-f634970d2fb0.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7e7133ca-9c60-4aa4-8259-e68e8982bf91.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3fb10ec9-f2d4-45ba-a068-be81e7f84258.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 36,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "처리 기능 구현3(평균 계산, 매개변수 쿼리 작성, 매개변수 값 지정)",
+    "duration": 1675,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e0eb4d9d0180919fbee",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a7ecde3e-5ff4-4b70-80f1-0524410bb7f2.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ddee1ea0-cc27-4ae1-8647-1c0a88c6a37d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5742a6b5-8d72-47a9-b7d9-ae0fdbaf8918.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 37,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "처리 기능 구현4(오름차순 표기, 중복 데이터 조회, SQL 명령)",
+    "duration": 1868,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e0fb4d9d0180919fde1",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "fa7628bd-9477-4cb8-8dc1-2514d500ed14.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "9aafa4bc-0112-45a7-a88c-0f3799fb9828.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "9d7f6b98-8b7e-4faa-b079-3a49610c591c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 38,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "처리 기능 구현5(Docmd, if, MsgBox)",
+    "duration": 1227,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e11b4d9d0180919ffed",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a79371c5-fad6-4229-afba-5709620536dc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "58c465d6-07d4-4657-9f00-a4f33ac3d253.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d31b2246-ad3e-4755-b293-d5f4a136f00e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 39,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "모의고사1(하위 폼의 특징, 하위 폼 만들기, 기본 폼과 하위 폼 연결하기)",
+    "duration": 3852,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e12b4d9d018091a0212",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a6c5fc87-c610-4e0a-9772-cf0174968403.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "59588816-0533-4f99-b513-477395ea66dc.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ea2e67af-6fc4-4826-8b39-a875632e218d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 40,
+    "chapter": "002_컴퓨터활용능력 1급 실기-데이터베이스",
+    "title": "모의고사2(컨트롤 다루기, 컨트롤 속성)",
+    "duration": 2420,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "644a1e14b4d9d018091a0450",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "956a242c-1921-4192-a988-6551e34dec04.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "dda314a8-02b1-46e5-8b28-d91bcdbc5093.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "35b552f3-7f47-430b-9df5-5bce13361ede.vtt"
+      }
+    ]
+  }
+]

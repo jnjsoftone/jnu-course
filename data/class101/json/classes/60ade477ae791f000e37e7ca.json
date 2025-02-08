@@ -1,0 +1,1106 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_만화를 그리고 싶어요!",
+    "title": "안녕하세요, 가타입니다",
+    "duration": 313,
+    "commentCount": 11,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6da6fe36cae0014d5923a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "837dc6b7-812d-4c01-8c21-8d6efa43a10f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8e3fb6f9-a407-4a09-8e8b-933a1b62fd59.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "12e87bf7-ea8b-4f85-94cc-b2451bfb0569.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 2,
+    "chapter": "001_만화를 그리고 싶어요!",
+    "title": "만화와 그림의 차이",
+    "duration": 279,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6db11ba0a90000db0c308",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "baa247c6-02c5-429b-b185-5cc7d784569d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e032a2f5-acb0-4b6c-98c7-b0441735b188.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2c34b700-04e6-452d-9970-ff83504adf5c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "001_만화를 그리고 싶어요!",
+    "title": "잘 그린 만화란?",
+    "duration": 214,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dc8bef5600001488c50b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d35638ff-5947-4e17-8c54-1e9ac1e8f82c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "9ab646a1-cfaf-4663-a329-444a2f97f4a6.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8cdadaf2-5d81-4386-9824-85c0080fa8d0.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "001_만화를 그리고 싶어요!",
+    "title": "클립스튜디오 설정",
+    "duration": 860,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "61134bccab28d1001467ee12",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3700a2ae-1a25-4ba7-ac9c-0acc5987dbd3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "12c52acc-6aa6-43f2-9e1b-69c851f2f0db.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1f652422-94a4-45a0-9153-7a21642128da.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "002_만화를 그려봅시다!",
+    "title": "함께 4컷 만화를 그려봅시다!",
+    "duration": 605,
+    "commentCount": 110,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "60f11f057d31890014040dc1",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0ee56af6-fa5e-4383-9ef4-d832f9241cc5.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ee2866e1-7cef-42b7-a1b1-e5fc85de2c67.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "bc8bba12-2fe0-4a5b-9407-6789c9ba304a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "003_만화와 연출",
+    "title": "만화의 구성요소",
+    "duration": 702,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60f1200e2f3bcc000e2b78b3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1a7185ee-1f07-48c8-b510-114faf2f5cf1.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e34e6ed6-60eb-43a1-884a-2c4a3b61e9b3.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "eb800cac-725d-41f1-a2d2-76714c3a2fc5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "003_만화와 연출",
+    "title": "연출이란?",
+    "duration": 668,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60f1201ec693810015e851c7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e4e93c62-2d8c-4efb-aef9-e4f2d0f126fc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5beaccf5-c86e-43ad-9ac7-9fdd31134565.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ff6ecd87-a2a4-4d38-adea-ac51da74577b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "003_만화와 연출",
+    "title": "컷 설명",
+    "duration": 785,
+    "commentCount": 99,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "60f120305d75db0015a03266",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ff9d524c-7c5a-4dd7-9ed0-4165c0e140be.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "24221162-afee-41ea-827f-b40447628e0f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a4e392da-2f33-4207-9f96-036701628a01.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "004_캐릭터와 장르",
+    "title": "취향을 찾아봅시다!",
+    "duration": 787,
+    "commentCount": 4,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "60b6da6f87ea96000d5dbc5a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f3e98a06-7d45-444a-ad12-bff32ae3cbec.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "0ab87d15-4354-4c24-9166-bbcb21eeebb8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "72cb293c-2132-4edb-bfaf-d7dc059587b5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "004_캐릭터와 장르",
+    "title": "키워드를 이용한 캐릭터 구상",
+    "duration": 534,
+    "commentCount": 5,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6db96d2fbfc001521b18f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cd15868d-65ef-4b88-b806-05e9710bb032.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5e8f8557-bc61-4df7-936d-6192e1c4ac8d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "37538445-f356-4f06-9eb8-8a202c4e6402.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "004_캐릭터와 장르",
+    "title": "키워드 세 개로 만들어지는 캐릭터의 성격",
+    "duration": 391,
+    "commentCount": 61,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "60b6dbdb475a3100147d704e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "becb338e-9c0b-4dd2-98e0-e759087f313e.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b7551474-ed2c-41bd-b60f-079efdad8100.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "9b955469-78f5-4744-aa2a-88687e89b4ea.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "004_캐릭터와 장르",
+    "title": "캐릭터의 외관을 만들자",
+    "duration": 728,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "60b6dbeed69f4b00148e46a4",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e6e0f352-61df-4c48-8b2f-1fbdd1a1f710.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "051aae42-e8d4-4ce4-8b89-f310413f0d0f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5960ba60-1459-4b9b-b7a2-686fa5f9efd4.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "004_캐릭터와 장르",
+    "title": "장르에 따른 캐릭터 설정",
+    "duration": 596,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dc0fd2fbfc0015225bf7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "75838400-5152-4288-b297-31892252aef3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c846d17b-f6f2-4323-9b81-3e6e1f669cc9.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5f76ffa6-fe3f-4bff-b4f8-6686b955daa8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "005_캐릭터를 이용한 만화 콘티 : 학원물",
+    "title": "학원물의 특징",
+    "duration": 458,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "60b6da6f10363d001423e2de",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "236ea101-7849-4eed-b057-acf6f8d8b0ec.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "dd80cf23-c702-4940-b759-85feb549b80a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5647ea78-f6d1-4ba4-abdf-cfa26a33e73d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "005_캐릭터를 이용한 만화 콘티 : 학원물",
+    "title": "학원물 스토리 구상",
+    "duration": 568,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dc7aea546a00145ac512",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1931324f-65da-475d-aeba-03b2d3dec70b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c7c8db7c-56c5-4941-9c74-eb1d54688a6f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d93122d3-0d3f-4102-aec5-9dc5cdce5120.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "005_캐릭터를 이용한 만화 콘티 : 학원물",
+    "title": "학원물 연출 알아보기",
+    "duration": 494,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dc9510363d0014276acd",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8e26c8eb-ff49-4776-8522-61c1cfa581b9.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "052c1f8d-6ef0-40c4-b4f1-d71a43d5903c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "549b0248-a392-489e-b1e6-f2fac574298e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "005_캐릭터를 이용한 만화 콘티 : 학원물",
+    "title": "학원물 연출 시연",
+    "duration": 1167,
+    "commentCount": 32,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "60b6df82736801002462e92f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3d7eb0e7-521c-4a11-9af9-08d00b71cf20.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "04944ec0-3e68-4d7a-aeb0-e06f93be740a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2dd5736e-42ef-4492-9a64-04bd36232652.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "006_캐릭터를 이용한 만화 콘티 : 액션물",
+    "title": "액션물의 특징",
+    "duration": 409,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dd829ff585000da2b478",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0af43237-d850-452f-868b-32199099d224.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "4c6bc9eb-ccf2-4fde-a506-9e06eb1d8492.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1b7555af-12fc-4413-a138-62ad3fe5fc40.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "006_캐릭터를 이용한 만화 콘티 : 액션물",
+    "title": "액션물 스토리 구상",
+    "duration": 379,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6ddf5c78c100014f7a706",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cbd741b0-3a3e-4489-a046-124440726f41.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c4ab5d0c-6814-43a7-8ddd-5f2caddb59c0.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2798cc23-f1b6-4a78-8b0a-b32e782d650e.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 20,
+    "chapter": "006_캐릭터를 이용한 만화 콘티 : 액션물",
+    "title": "액션물 연출 알아보기",
+    "duration": 635,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6de018dd6a10015d6edad",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cb51ad0d-2d54-47d4-8f8f-14cc11b5e478.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ea1a90b8-4e8b-4792-be0c-674be67203fe.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8b566445-4fb5-4e59-bfe4-ed2c15d64f4f.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 21,
+    "chapter": "006_캐릭터를 이용한 만화 콘티 : 액션물",
+    "title": "액션물 연출 시연",
+    "duration": 1289,
+    "commentCount": 19,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "60f68fff2f9c4e000d70efc3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2cf33478-9275-4b7f-89d9-c115f9f8d90f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a1c850de-602e-4c26-879d-07608fcdd7cf.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5fb031ff-43f6-4b2b-8fc6-c8c6a116f93b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 22,
+    "chapter": "007_캐릭터를 이용한 만화 콘티 : 개그물",
+    "title": "개그물의 특징",
+    "duration": 343,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dce1ac7a38000d28a986",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "dbb4fe23-58a0-4fa5-b0ac-50a1f32bc0b6.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6127834f-c9f2-4dcd-8c36-a802bde5721e.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4e680421-dc3f-4ff5-8ceb-5efdc68fde55.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 23,
+    "chapter": "007_캐릭터를 이용한 만화 콘티 : 개그물",
+    "title": "개그물 스토리 구상",
+    "duration": 417,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dd6fcad06d00141732c7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e17a4c38-89bf-4cec-b0b3-297b1a91d86d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d1ec9a69-30c9-46c7-b6fb-7d683df9a536.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b0ed9717-30d2-4ef7-b8b3-330e47da6bfa.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 24,
+    "chapter": "007_캐릭터를 이용한 만화 콘티 : 개그물",
+    "title": "개그물 연출 알아보기",
+    "duration": 499,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dd7a41fab1000d07fdd2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "7e7a4556-3843-4c49-bd81-64742587a04d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8b5b8829-c2cb-4623-a138-c8bee9998250.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e53eccfa-b537-4db2-8302-11625bc47760.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 25,
+    "chapter": "007_캐릭터를 이용한 만화 콘티 : 개그물",
+    "title": "개그물 연출 시연",
+    "duration": 1254,
+    "commentCount": 16,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "60f690406e9101000ddc0ba9",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6a77aef0-3c66-49dc-bef9-9193e1a03e6d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "67ff910a-2a2d-4bfa-b6ab-282baeee5a72.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c5754f23-d0c5-434b-a4ed-11cb005c1539.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 26,
+    "chapter": "008_캐릭터를 이용한 만화 콘티 : 재난물",
+    "title": "재난물의 특징",
+    "duration": 323,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6de11eb344f0014bf26ce",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0a13d2fc-a8b7-4b16-91e7-6411a794afd4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5ba972e6-a14d-4938-8116-383d5ea02670.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2b86672c-dd1a-486f-80bf-9229ceaa0a6b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 27,
+    "chapter": "008_캐릭터를 이용한 만화 콘티 : 재난물",
+    "title": "재난물 스토리 구상",
+    "duration": 304,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6dee4320d7800140873c5",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cbe6d518-6b52-4a2c-bbf7-6d55b0f2b5be.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ea8e13b7-adb3-4137-a6fc-908b9995d752.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "30400dd4-3fdf-4eee-a874-50d4396e0061.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 28,
+    "chapter": "008_캐릭터를 이용한 만화 콘티 : 재난물",
+    "title": "재난물 연출 알아보기",
+    "duration": 418,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6deef19fb8c00145c9fcc",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9efa9d87-fccc-41fb-883a-efb0dda95d6c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "416dbb42-5e6a-42cb-84a4-07840d020d03.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "eb6a497e-19ae-4e2c-9245-5607652b416d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 29,
+    "chapter": "008_캐릭터를 이용한 만화 콘티 : 재난물",
+    "title": "재난물 연출 시연",
+    "duration": 890,
+    "commentCount": 12,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "60f690624a0cd10014198f34",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3f989926-c566-4a8d-ab46-bf613749148f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "4fa37ce3-aa7b-4b5a-afc5-27e965ca7990.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4445d9f7-a344-440b-9b63-a808f95ddb0f.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 30,
+    "chapter": "009_작화 : 완성도를 올리는 선화",
+    "title": "스케치",
+    "duration": 1639,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "60b6e042cad06d00141b7114",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "719c6c81-081d-445c-adbe-f4a9afa345f4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f2b25c44-e0bc-4c54-b1df-f8dbb29bdabb.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d5ff4bb1-e74d-4d22-887e-9be8f5301ba2.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 31,
+    "chapter": "009_작화 : 완성도를 올리는 선화",
+    "title": "선화",
+    "duration": 2158,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e054b9f444000dee7380",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bf001177-6788-4fe9-9206-7fccaa804668.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "9df319ae-8c7f-43d9-af1f-674bc1ffaaf4.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "04bafff8-c2bb-4484-acee-e4a2b54650df.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 32,
+    "chapter": "009_작화 : 완성도를 올리는 선화",
+    "title": "선화",
+    "duration": 1749,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6100c22eec5dec000da6f762",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1718b2fa-d60d-40c2-a2bc-aa62a0a5bdd5.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f35383a8-2bcc-493a-8a19-890c97fe71aa.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "910e35d0-dd7b-49c2-81cc-314002561771.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 33,
+    "chapter": "009_작화 : 완성도를 올리는 선화",
+    "title": "선화",
+    "duration": 2341,
+    "commentCount": 12,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "6100c231115ed5000dbe0382",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "60726021-1b41-4db2-bcfb-1775cf3c42e6.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "73b2f926-cf1a-47c1-9d9f-76d85d29353a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "21a4eba8-fa5d-4ba2-9b36-b1be40524c71.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 34,
+    "chapter": "010_작화 : 완성도를 올리는 먹칠",
+    "title": "먹칠의 기본",
+    "duration": 290,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e08deeba09000d0f3c75",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e45e7b43-a399-4235-8c1e-ceba4ddec80c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "190e8f8f-edae-47f2-91a7-93f8b5d31209.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d4f50f4e-f3ea-4917-8577-f805e07ba083.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 35,
+    "chapter": "010_작화 : 완성도를 올리는 먹칠",
+    "title": "먹칠 연습",
+    "duration": 1286,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "60b6e0de87ea96000d683dd2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "33209dea-c502-4c18-9ee4-bf8408d81eff.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "81e23473-4633-4ca3-96c5-4607bbc07dde.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "56a3c1f8-8fa4-4a8b-9760-c929a0f2cdab.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 36,
+    "chapter": "010_작화 : 완성도를 올리는 먹칠",
+    "title": "먹칠 실습 ",
+    "duration": 1881,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e0f2b9f444000def58db",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "24b6077d-5475-4e90-8dd2-32c83d819cfb.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "59f432d1-b853-49e3-9444-ffd7dcbdddc5.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "153251d6-afc2-4dd7-b18c-aea048dff98c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 37,
+    "chapter": "010_작화 : 완성도를 올리는 먹칠",
+    "title": "먹칠 실습 ",
+    "duration": 1079,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "6100c2488fa7810014f1483a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9962f964-0c9d-4538-ad47-0154c80432bf.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "bb5e8f32-2e28-4bbf-8c6a-a93900767c46.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "02ea265b-3ab0-444c-b536-cd506a92f9c8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 38,
+    "chapter": "010_작화 : 완성도를 올리는 먹칠",
+    "title": "분위기에 따른 해칭",
+    "duration": 576,
+    "commentCount": 9,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "6100c24a0344d0000d491e9d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ae270d4c-8338-4005-af8d-6f3fbc51b02b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "cf9b7a23-9123-4764-864c-abdd52531a26.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7385be1a-3407-449f-a655-d1d90c5cf2c3.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 39,
+    "chapter": "011_만화의 표지",
+    "title": "표지 구상 (1) 배치",
+    "duration": 921,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e12c20e01f000d95713f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0a6524e0-18c3-474c-8df9-032735f37bfd.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b430d86c-a9f6-45fa-af3e-0801e523f814.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "aee14cab-cb15-4e1b-ab97-55e0d286c646.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 40,
+    "chapter": "011_만화의 표지",
+    "title": "표지 구상 (2) 색",
+    "duration": 324,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e225ba0a90000dbc34f3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "2a396fec-82d2-4339-a00c-a78f0c47db12.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "fe399b02-6ea0-437f-93dd-c5a8ffae434f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b58e2308-2be0-4813-bc6a-2bdf2dc5dda4.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 41,
+    "chapter": "011_만화의 표지",
+    "title": "선화",
+    "duration": 3040,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e2550604d90014617808",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "29020c7f-c082-4dd9-b7db-44069a808513.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8db227e4-03bd-4863-8987-9c8141d4fb37.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5ae60554-32a0-4871-99e9-7bac4497696d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 42,
+    "chapter": "011_만화의 표지",
+    "title": "채색 (1)",
+    "duration": 2282,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e2867368010024683aee",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8ccdd753-437b-454a-b713-5e63cb73c977.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7b80b6b3-7736-490c-9d27-4f5ca19ad639.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5c17e87b-003b-47b3-8452-5f0c92b6bb17.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 43,
+    "chapter": "011_만화의 표지",
+    "title": "채색 (2)",
+    "duration": 2023,
+    "commentCount": 10,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "60b6e28d60d2100014fa616c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f26d4a24-b769-4496-8b17-d6017ee375ae.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a23b5760-f5f8-42ba-b076-6273d41c42ef.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b6b479c8-9a90-4e9a-b423-d0df0df6731a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 44,
+    "chapter": "012_나만의 책 만들기",
+    "title": "계획 세우기",
+    "duration": 311,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b8c9020041e30014c33751",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1600df6b-6e58-47a4-9d5e-917471ff3e2a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "3938e48d-af1a-4a2b-b2ef-9e9e831a0430.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7f5606c7-9422-4099-a53e-d8e954c7112b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 45,
+    "chapter": "012_나만의 책 만들기",
+    "title": "책 제본",
+    "duration": 205,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b8c9d68685e6000d796460",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0436a9ad-1221-409b-b458-1acfe3b2ff39.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6eead509-e7fa-4e54-bf6e-c988e94d44c1.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e263829c-27ed-4a4e-bec9-dc0e4843c539.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 46,
+    "chapter": "013_완강을 축하합니다!",
+    "title": "만화를 그릴 때 가장 중요한 것",
+    "duration": 113,
+    "commentCount": 7,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "60b6e2f2e37314000d11b8e7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "18bde289-81dd-4988-a207-91f293f4257b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "69f3d21b-0788-4553-812c-2c887bfd891b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ff5da9b5-21b9-4bd3-af72-05933830410a.vtt"
+      }
+    ]
+  }
+]

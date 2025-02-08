@@ -1,0 +1,1130 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_이야기를 담아낸 그림을 그려볼까요?",
+    "title": "안녕하세요, 다옹입니다.",
+    "duration": 132,
+    "commentCount": 30,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5ed4a5d9979065597818d146",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "616f72ba-d82a-4371-9dff-1e396943a99f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ac2278d1-9a8f-4901-9f33-6565871c0f39.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2c181194-9ee0-4649-bc21-968182152370.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 2,
+    "chapter": "001_이야기를 담아낸 그림을 그려볼까요?",
+    "title": "제 클래스에서 무엇을 배울거냐면요.",
+    "duration": 113,
+    "commentCount": 5,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5ec65faea9ddcd35c3e33baf",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "69b280b6-7d97-43b1-b4bf-bf07999c1485.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "19041ac3-c9cb-4caf-a4a7-d7cf081fcdd8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "00599a74-61dd-423a-95b9-f1742b7164c1.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "001_이야기를 담아낸 그림을 그려볼까요?",
+    "title": "클래스 준비물, 타블렛과 클립스튜디오",
+    "duration": 236,
+    "commentCount": 5,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5ed4a5ecb5a04874b8c8572a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "469cee35-96a0-4d26-aec9-a5a161e0a4d2.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "13a32118-c4b7-48b3-8ca3-bcbc346c3ab5.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "dae3294d-7289-4bbb-979b-3978eec65261.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "002_시작하기에 앞서, 작업 세팅",
+    "title": "프로그램 세팅과 단축키",
+    "duration": 678,
+    "commentCount": 513,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5ecd23ae7847c30d879081ed",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b5d06a23-2d8f-4764-8f00-b99b825ffe6b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "8ec996c7-c960-4819-806b-844d5920a8a3.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5860c919-8496-4de1-94fb-df7ce93a4a1a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "002_시작하기에 앞서, 작업 세팅",
+    "title": "상황에 따른 레이어의 쓰임",
+    "duration": 515,
+    "commentCount": 124,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd23cb87e36a44ab4c5118",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "92dd1c7d-16ba-4ee7-8c45-4d2bd3eea8c7.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2944740c-bcf2-486a-b621-6120768a7d23.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3976c9b7-6ece-414d-8c25-8379b9bb1c81.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "002_시작하기에 앞서, 작업 세팅",
+    "title": "자주 쓰는 브러시와 세부 설정",
+    "duration": 880,
+    "commentCount": 23,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd41a2ab3501680a9e0db7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "96eb8494-c5aa-4799-81e8-e5742190507a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5b69de5f-6b38-473b-a984-24c2e19c9c5c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "144fbd07-f1e4-472a-a20d-7f55c59ee581.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "002_시작하기에 앞서, 작업 세팅",
+    "title": "알아두면 좋은 TIP",
+    "duration": 949,
+    "commentCount": 20,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5ecd2e29502a5c0da0e7df1f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "45c9f7eb-5b01-4fe2-860e-18611c0434ae.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7cab0d2e-3e7d-4cef-810c-350b0572bfb4.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "cfa10b46-bf54-41ce-aa4f-f54965ab0ac8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "003_차근차근 나아가는 캐릭터 기초",
+    "title": "얼굴 비율에 익숙해지기",
+    "duration": 1127,
+    "commentCount": 82,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd2e917847c30d87972f7a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "75ba6e56-07a3-432c-bf9c-b757ebf779bb.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "35a60706-a1d2-4c20-93da-bd29fff2161c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "42c2b60f-7e04-4b9d-8903-6203ff497cb4.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "003_차근차근 나아가는 캐릭터 기초",
+    "title": "표정으로 인물을 나타내는 방법 ",
+    "duration": 1903,
+    "commentCount": 53,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd2e92e7ecd53961d71699",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "35cc04bb-e1bd-4d70-b7f3-50165389e4cf.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "70024726-af38-4b22-a5ed-be973537309b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5e39de6f-ee0e-4cf4-8cb9-a5c0d4ca5ec5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "003_차근차근 나아가는 캐릭터 기초",
+    "title": "행동으로 캐릭터 묘사하기 ",
+    "duration": 2255,
+    "commentCount": 258,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5ecd3ccc96fbbd0d8eb3bab0",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ed346187-6671-4a3b-b202-166e1d652762.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "439ede4c-b265-4710-a629-ce5d60e14783.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "af090691-6a87-4397-b84e-7a48842240bd.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "003_차근차근 나아가는 캐릭터 기초",
+    "title": "간략화된 SD 캐릭터 그리기",
+    "duration": 2002,
+    "commentCount": 213,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5ecd409dd65d740d9491e13a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6c89b40d-2c89-4301-acc5-1d3b5baaca83.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b3015fa4-9a88-44f3-8aa4-c7a81b412ddb.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "141002d9-2c13-4577-85d0-f811ee3eff1b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "004_백문이 불여일견, 캐릭터 디자인 쉽게 하기",
+    "title": "有에서 有를 창조하기",
+    "duration": 1426,
+    "commentCount": 27,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd3a3d801b2c0d9a53dfb7",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bd1a303b-a4af-4721-9a60-b6bc86b6a81e.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6a16446e-d5b4-4a9d-8b5d-c4f90a1a7769.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c6cfcf72-2265-46f5-a0ed-b3597a5f162b.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "004_백문이 불여일견, 캐릭터 디자인 쉽게 하기",
+    "title": "캐릭터를 한 단어로 설명할 수 있나요?",
+    "duration": 806,
+    "commentCount": 6,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd3e2c7847c30d879cc150",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b76c4fb2-f890-49af-9460-4b08b8aec729.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "91d59f93-3da2-4da1-95d7-bda528fba280.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a0daa194-87dd-48cb-9e68-d46ccd50f4c4.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "004_백문이 불여일견, 캐릭터 디자인 쉽게 하기",
+    "title": "매력적인 색 배합 TIP",
+    "duration": 1558,
+    "commentCount": 155,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5ecd3a3e616acb397b3bed19",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "bb9395ff-82d0-43bf-abb5-b54755c3adc8.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "068a595e-c49e-4065-981f-ef6935ada0b8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "81e142c7-72a3-437d-b47f-a3280efe9eb1.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "005_작품의 완성도를 높이는 채색과 디테일한 묘사법",
+    "title": "남자 캐릭터 드로잉",
+    "duration": 708,
+    "commentCount": 8,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd4356f70a9a44a6277938",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "86976aa6-7b22-480e-ab6f-6c4f95887cba.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6a4c443f-e3d6-434e-a700-e1a373021147.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "f05fb600-c5cc-4ada-9986-9a3730641540.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "005_작품의 완성도를 높이는 채색과 디테일한 묘사법",
+    "title": "남자 캐릭터 드로잉",
+    "duration": 1572,
+    "commentCount": 11,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecfea276be5586363447e95",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cab2c38c-8c97-4a1a-ac9b-bb2d53aee653.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "9563821f-b272-4e2e-b120-b69a7317e786.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4beb695a-80e7-482a-8465-d37949e35696.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "005_작품의 완성도를 높이는 채색과 디테일한 묘사법",
+    "title": "여자 캐릭터 드로잉",
+    "duration": 990,
+    "commentCount": 4,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecfed9ef992174d180cab46",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e2025a04-49e9-41ab-9874-00531ac4ccc4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "4e4dca67-4521-46c2-9f04-311542191601.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2c31ebe8-c716-427d-b5f9-bac32c9b2210.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "005_작품의 완성도를 높이는 채색과 디테일한 묘사법",
+    "title": "여자 캐릭터 드로잉",
+    "duration": 2865,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ed048e70fa34a4d1f46a7d4",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "c9c26432-5cc8-4752-adc6-9f8ab6132fe7.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7eb5d57f-d20a-43c1-93be-7439b4cfb929.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "8b0c00fa-8df3-4aa2-88ed-fa8bf53bc2e0.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "005_작품의 완성도를 높이는 채색과 디테일한 묘사법",
+    "title": "자신만의 보정법 찾기",
+    "duration": 532,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecfeda7972d190d7e5d227c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "4b708f8d-b6ac-429d-89a9-03a46890c4ee.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "27d8d19c-0d67-4a1c-95f1-5e6a96fdb272.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "fbba9ec1-3fc0-4723-ada9-34275bb49f24.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 20,
+    "chapter": "005_작품의 완성도를 높이는 채색과 디테일한 묘사법",
+    "title": "클립스튜디오 소재를 이용하여 완성하기",
+    "duration": 580,
+    "commentCount": 104,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5ecfedc34b1dc70dc37fa6dd",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9e237bd8-5de0-4f35-9644-fed79108cdb3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "bce92a6b-b47d-4629-82cb-90e2f8fc810e.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "cae27be6-418f-41ac-8393-a2f271000cf4.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 21,
+    "chapter": "005_작품의 완성도를 높이는 채색과 디테일한 묘사법",
+    "title": "Bonus+한 눈에 들어오는 레이아웃 배치",
+    "duration": 658,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd433d2256413968f3a705",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "83da15d3-c79d-4134-b2cb-cd5dd25a3890.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "fa2ebabd-9333-4d87-bacc-be05f9285baf.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a7521fd3-d37b-49c1-b84c-f30b3e9c2d56.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 22,
+    "chapter": "006_시선을 사로잡는 스토리 만들기",
+    "title": "단어와 문장으로 이야기 짜기",
+    "duration": 518,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd43d0f30c2e0d9eac939c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b9f5615f-370f-4465-8bdb-d25e2a247168.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "bda11a5b-b6bd-4262-8580-d08e2c34aafc.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5d31e108-7e77-40af-9c0e-9b52427f39e8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 23,
+    "chapter": "006_시선을 사로잡는 스토리 만들기",
+    "title": "배경을 이용하여 이야기 짜기",
+    "duration": 431,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd43d1f70a9a44a6279a2e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "93622cc3-2df4-4587-9d65-4173f24c844a.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "dd05a70e-d613-446b-99b5-cb9be1082890.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3a12dab2-dd52-49a4-b7a8-cbe09425b062.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 24,
+    "chapter": "006_시선을 사로잡는 스토리 만들기",
+    "title": "인물을 이용하여 이야기 짜기",
+    "duration": 391,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd43d3008687395a8207ab",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a3c8b699-f34f-4ca0-b6c6-15f62c18fa27.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "633abc4f-57b9-4695-bdb1-7f9cb713478d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "6741ef92-9d35-46b7-8a84-1582180c1a13.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 25,
+    "chapter": "006_시선을 사로잡는 스토리 만들기",
+    "title": "상호작용이란?",
+    "duration": 477,
+    "commentCount": 115,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5ecd5558807621395bd11101",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "027bab5b-4c54-4f82-a953-cc7be0c25731.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "81760baa-624f-45c1-9336-ea5a46f1430b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b9b3f2e0-383a-4f5a-bd2a-d1f7f217716c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 26,
+    "chapter": "006_시선을 사로잡는 스토리 만들기",
+    "title": "Bonus+설명보단 그림으로. 시작은 강렬하게",
+    "duration": 603,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd4b0c9dc8f30da622cc73",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1adb3de3-899f-4dc6-9fc4-d1660e53e721.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e66a74b8-261c-45ee-9544-d25a0789a934.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "2d26b2bc-7e7f-49c4-bdb3-c387da59d0d2.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 27,
+    "chapter": "007_만화적 표현 배우기",
+    "title": "상황을 담는 배경",
+    "duration": 2011,
+    "commentCount": 11,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd445d30a5b93962e26e9e",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a2d6f68d-e711-49dd-91be-a0be0da9f30d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7bcc319b-3889-4198-a42c-90f09f6f2a31.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "eace284a-6f50-4544-9a07-d1099ea36940.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 28,
+    "chapter": "007_만화적 표현 배우기",
+    "title": "상황을 대변하는 효과",
+    "duration": 937,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd484a0316fa44b9b46ed2",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8fd38a0a-405e-4ab5-ad52-223de24cf089.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "fce377f9-298b-4454-bbf4-4c0172a04095.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "07e92c88-21f9-4944-b796-c236d001e037.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 29,
+    "chapter": "007_만화적 표현 배우기",
+    "title": "상황에 맞는 말풍선",
+    "duration": 600,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd445e6858ab67fe619dd8",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "5479ff49-92ff-415d-818d-2c9b4e45c7ce.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c7cccb36-e297-49ab-a9be-859ea216dd38.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e0d278d7-44d1-4aa5-9656-343d17da12dd.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 30,
+    "chapter": "007_만화적 표현 배우기",
+    "title": "상황에 따른 연출",
+    "duration": 701,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd445e9223ba6811006dec",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ef02a8b6-b476-4ec1-82ae-51313b0d7ba0.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f4cc36eb-74da-4c8e-b5bc-7ed4f3039c04.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "594827aa-9f9c-4611-89c3-c91ec979209f.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 31,
+    "chapter": "007_만화적 표현 배우기",
+    "title": "Bonus+실패없는 톤 사용 TIP",
+    "duration": 340,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ece7a1d9ade650db19c7470",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "456de9f9-a878-41b3-9f74-d24135bafa8f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a89045b4-6630-4d6e-b9f9-240dfdef4ad8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "d2542695-c1a4-487f-98c4-3f287871d897.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 32,
+    "chapter": "008_만화를 그리기 위한 워밍업 : 흐름 다듬기",
+    "title": "글로 나열 후 콘티 다듬기",
+    "duration": 1370,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd44ff86017544ad085eab",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3c7b1917-1760-4253-8377-700dd96e7f16.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "0499581d-a9e7-4dd9-b7a5-9ac141cfdc57.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "09dc1c27-0ab2-42b7-830a-105d4371e848.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 33,
+    "chapter": "008_만화를 그리기 위한 워밍업 : 흐름 다듬기",
+    "title": "대사 흐름 정리",
+    "duration": 603,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd4a457e91e4397376ff0f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f652c9e0-828e-4a2f-b214-d6b502b62d04.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "57244a7c-0b91-4549-b2dd-44de533f4eca.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5d76823e-5c06-4db6-90bd-da0310456678.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 34,
+    "chapter": "008_만화를 그리기 위한 워밍업 : 흐름 다듬기",
+    "title": "Bonus+만화, 도대체 어디서 끊어야 하지?",
+    "duration": 391,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd4557d65d740d949310aa",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "296884db-c1c3-4821-a9c5-9f0b3ae74a33.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "96eb9063-7653-4791-91ef-daa6a0d5f313.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "82781b5c-9c57-4870-bbc0-13e9284601e3.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 35,
+    "chapter": "008_만화를 그리기 위한 워밍업 : 흐름 다듬기",
+    "title": "Bonus+컷만화를 웹툰식으로 바꾸는 TIP ",
+    "duration": 1413,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd455e6858ab67fe61d67c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3a0c3ac3-61ce-4e73-96b8-2260321ca0bb.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f224ab98-9cde-41da-b119-e73628ade313.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e7331059-8e0a-4c3b-a6db-ea7946ac3144.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 36,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "효과적인 스토리 텔링, 매력적인 콘티 짜기",
+    "duration": 1059,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd458a502a5c0da0f0b790",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "53fb8e34-038e-4d48-ae4d-e78d1ad3e938.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c71d2d3c-0688-41a0-b42c-92b7a1f781a8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "de2ffb44-dd10-4af5-95ad-498beb4d07c7.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 37,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "이야기의 시작을 담은 첫 번째 장, 선 따기",
+    "duration": 1467,
+    "commentCount": 2,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd458af30c2e0d9ead2263",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0b2ba5b4-1f62-4c8f-af0d-259ce8a15707.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "696b1cb3-c0e5-47b4-bd42-8bb00f7ce134.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "5e1ab5cc-bfe8-4196-a716-86faec8fcfd3.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 38,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "이야기가 진행되는 두 번째 장, 선 따기",
+    "duration": 4096,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ed2aeeb73bfc40d775d8d65",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ba717d8b-c38b-4b5c-be48-0eccf5e2b4bc.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "3ffd69a1-3aac-4399-8d9e-0c371f633b4c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "edf8fbf0-3abf-481c-b773-7d3c4937589a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 39,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "이야기를 마무리하는 세 번째 장, 선 따기",
+    "duration": 1239,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ed2aefbb005454f04831124",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "1eef9a6c-b286-4fa3-99a5-606d7b468064.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b4854c5e-aa4a-48c8-9b49-60bb41bc714c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "f40ba7f7-6869-4472-acbc-e7be82054d46.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 40,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "이야기의 시작을 담은 첫 번째 장, 채색하기",
+    "duration": 3016,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecfecbf28996d05d35696a9",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "59c22c5c-ad3d-4ef7-bc63-6c5879c01d68.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "451b75c2-b5c2-44e8-91f4-f91dc8ada8de.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "250f27bd-4aeb-4ee8-8132-dd5d8f885475.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 41,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "이야기가 진행되는 두 번째 장, 채색하기",
+    "duration": 4402,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ed3a3c879aedc4b89028f8b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b9109193-decc-483c-b379-e3ef922aac01.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "786fe891-2d6a-435e-b1cd-4027a69a5039.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "17de9db4-209b-4358-b97e-04c346ca8265.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 42,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "이야기를 마무리하는 세 번째 장, 채색하기",
+    "duration": 1022,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ed3a3e039c31e0d03be252a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "148ba38b-1093-4c50-a434-c0e526a666c3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b6288d2c-8ac8-4951-aef0-c30d5844ea37.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "e91148f7-c1b6-42ba-bb10-3bf9d8a0d9f5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 43,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "보정 작업과 배경 넣기",
+    "duration": 1746,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd46e45432b6397a3daa7c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "35947f3d-8bee-4657-b5fa-26060eced5c5.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d392cbbd-2cdf-4875-9b33-360251295181.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4df0085d-3f24-4e18-98df-5d3909507d15.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 44,
+    "chapter": "009_배운 것을 활용하여 하나의 만화를 완성해봐요",
+    "title": "완성도를 높이는 마무리 작업",
+    "duration": 1273,
+    "commentCount": 54,
+    "hasMission": true,
+    "hasAttachment": true,
+    "lectureId": "5ecd4a0575047567fdc34693",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "642812b8-14ee-4d3c-a4a4-0d207f9b39d2.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "edcaec80-8245-40e8-8521-a33ada9e39b1.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a2236cdd-a2e0-4029-bf06-87fcbc48c168.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 45,
+    "chapter": "010_경험에서 우러나오는 노하우",
+    "title": "감각을 키우는 방법. 노는 것도 일이다",
+    "duration": 269,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd4b84146b9a44a0f35eae",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "93f6eb36-62a3-44d6-bc47-1b63b78ce082.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "bfe3659a-e777-410d-91e8-bda2b676bc1d.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0442877a-f0bd-4edf-b147-e5f8851ce052.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 46,
+    "chapter": "010_경험에서 우러나오는 노하우",
+    "title": "이야기를 주기적으로 끌어내는 TIP",
+    "duration": 209,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": true,
+    "lectureId": "5ecd4788b1b5c50d937b9fee",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "6f161bdf-9a8d-4ca9-a6af-39a0ff18835c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "7638a274-31ba-4fce-a689-12e33fb40fa1.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "f38f4c19-096c-4e9c-8df3-c000547891e7.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 47,
+    "chapter": "011_완강을 축하합니다!",
+    "title": "이제 여러분의 이야기를 담아보세요",
+    "duration": 160,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "5ecfd5d8c1c10305c72740c3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "324081bc-5f60-4367-a73a-0d9ad69c6c04.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "489fc444-bd61-43fa-ab28-0a06899f4fb9.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a62b6afe-7320-4830-877e-7076951b0723.vtt"
+      }
+    ]
+  }
+]

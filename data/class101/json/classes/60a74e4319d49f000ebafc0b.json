@@ -1,0 +1,698 @@
+[
+  {
+    "sn": 1,
+    "chapter": "001_안녕하세요 여나테이블 입니다!",
+    "title": "여나테이블을 소개합니다.",
+    "duration": 212,
+    "commentCount": 68,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "614addbf59bd1b000ee04093",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "001eebfb-9bd5-433a-ad19-b3a968eb96b9.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "d7f3da85-45e6-4d27-ba3a-b340be2cee41.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "579611e4-1f29-4c48-8930-f30d6cdea1fc.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 2,
+    "chapter": "001_안녕하세요 여나테이블 입니다!",
+    "title": "클래스에서 필요한 재료와 도구를 알아봐요.",
+    "duration": 337,
+    "commentCount": 7,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "614addf549357b000d4bebd5",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "7f392b10-2151-486d-8c52-94398693d3d8.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6dab9649-6735-41c5-88ee-122e959a559c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "86bc2032-11c6-4d73-9f9a-ee631883fcf2.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 3,
+    "chapter": "002_모든 솥밥의 중요 기본 공식",
+    "title": "솥의 종류별 가장 알맞은 쓰임",
+    "duration": 398,
+    "commentCount": 51,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a761f152f170015d75e92",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "3d2b4a7f-a59d-44a3-a6dd-2f320f36d182.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2b972ab7-ced4-49f2-8dcd-2ff7d371d298.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a2ee0a64-bcc8-4365-a559-aa7b2a2d443d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 4,
+    "chapter": "002_모든 솥밥의 중요 기본 공식",
+    "title": "고슬고슬하고 찰지게! 솥에 맛있는 밥 짓기",
+    "duration": 759,
+    "commentCount": 35,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a76208dce9a001490d4ae",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "95ac484b-9e27-41b3-855a-0a44b7188273.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "1f008aa8-509b-44ce-8e9f-6d3042c33e8e.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "82e48832-5924-4952-9e2b-d035938380d6.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 5,
+    "chapter": "002_모든 솥밥의 중요 기본 공식",
+    "title": "기본이 되는 육수와 양념장 베이스 알기",
+    "duration": 427,
+    "commentCount": 7,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610a762266d6ee000ddab43a",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e9e28147-585a-4781-817d-8f39a8290eca.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f20b8525-b9e3-4756-a4e1-f6a4447f2578.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c4f2528e-3058-4c32-af3f-1ad170239c18.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 6,
+    "chapter": "003_바쁜 일상 속 든든하게 <콩나물차돌솥밥>",
+    "title": "콩나물, 마늘, 차돌박이 손질하기",
+    "duration": 294,
+    "commentCount": 5,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610a7699c2a7b5000d4e773f",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "ee241479-c87e-4813-ac21-1d03f3a9cb6c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b286cec3-7b11-41a9-bfe0-f02ad1d4b41e.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "1f28c51d-f192-4eaf-8945-ae90d0e192d1.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 7,
+    "chapter": "003_바쁜 일상 속 든든하게 <콩나물차돌솥밥>",
+    "title": "고슬고슬하게 콩나물차돌솥밥 만들기",
+    "duration": 699,
+    "commentCount": 32,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a76a1884f18000ef71691",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cfc109fd-7ff8-489f-beeb-7a3a300fcbb4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "0e0a5886-6538-495e-8d29-e8d3c3d35b8a.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "de867451-958e-40fc-ae53-7a5b01024551.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 8,
+    "chapter": "003_바쁜 일상 속 든든하게 <콩나물차돌솥밥>",
+    "title": "예쁘게 담아내기 & 부추양념장 만들기",
+    "duration": 284,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610bbc3f4e735300154ed060",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "91085e7a-4886-442a-93ef-9061a49c980e.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "e65aa09a-5e56-4c88-800f-620f05352be2.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "bf7430eb-e041-4748-bae9-02258eb453fa.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 9,
+    "chapter": "004_바쁜 일상 속 든든하게 <돼지고기가지솥밥>",
+    "title": "가지 손질, 돼지고기 밑간하기",
+    "duration": 523,
+    "commentCount": 3,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610a773f4a215e000e8d1524",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "0c601ac8-707b-41ce-8bca-32332076e4b4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "155318f8-13d2-404b-85da-f4109ee7d592.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3ed1ba81-77c5-4a5d-8585-e0257164fb92.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 10,
+    "chapter": "004_바쁜 일상 속 든든하게 <돼지고기가지솥밥>",
+    "title": "질지 않게 조리하는 팁 & 고추양념장 만들기",
+    "duration": 1526,
+    "commentCount": 31,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a7740a571d7000dad38a8",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "54eae9df-7396-42e7-872c-f8c0a1e19a3d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "2759ee76-b84a-4630-b625-b8bbf34fd11f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "db00091b-5a21-4858-83eb-f00dcd1bb81c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 11,
+    "chapter": "004_바쁜 일상 속 든든하게 <돼지고기가지솥밥>",
+    "title": "[TIP] 대체할 수 있는 재료 소개",
+    "duration": 182,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610bbc5ad0821c0014b63811",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "fc30e1ff-2f15-4863-b5e2-c44d2c6f757d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "51b3229f-c096-469c-b87d-883525b2560f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "59a77502-5969-4115-adb5-bd8674775328.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 12,
+    "chapter": "005_뻔한 솥밥은 가라! 눈과 입이 행복한 <아스파라거스토마토솥밥>",
+    "title": "아스파라거스 손질, 소고기 밑간하기",
+    "duration": 376,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610a7789a9661b000d4a6cfa",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "a99214b7-fce1-4181-aae0-ffb8a1acb195.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "b9dcafb4-2618-4951-9c2d-dc3eb29881a7.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "a7f38d90-fd3f-412d-b735-5c6162a4a153.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 13,
+    "chapter": "005_뻔한 솥밥은 가라! 눈과 입이 행복한 <아스파라거스토마토솥밥>",
+    "title": "토마토 예쁘게 올려 밥 짓기",
+    "duration": 735,
+    "commentCount": 22,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a778e2ddf63000d5e5182",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "77d9c213-1db2-41c7-b3af-e6311c8eef6f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "82074255-6cf8-4d2d-80d5-889e51b68011.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "755fcdf4-dd95-4542-9b0c-9f507990ba5a.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 14,
+    "chapter": "006_뻔한 솥밥은 가라! 눈과 입이 행복한 <닭고기카레솥밥>",
+    "title": "잡내 없이 닭고기 밑간하여 굽기",
+    "duration": 480,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610a77fe8c78fe000d863795",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "46f53ba3-d169-458b-adb6-e15b46333e3d.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a21db076-322f-4e95-b454-94d6366140b8.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b8a40130-c8d5-4120-bd68-27294ab7b368.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 15,
+    "chapter": "006_뻔한 솥밥은 가라! 눈과 입이 행복한 <닭고기카레솥밥>",
+    "title": "커리 종류 별로 쌀과 잘 어우러지게 볶는 방법",
+    "duration": 603,
+    "commentCount": 20,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a77ff66d6ee000ddefc7c",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "87ec23bf-ee24-42f9-9063-7b08f0a190e3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "be9d7fb2-0f1b-4709-b53e-e76fd648d3cc.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4a71abb8-e839-46e7-a7fb-d4b038113d30.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 16,
+    "chapter": "006_뻔한 솥밥은 가라! 눈과 입이 행복한 <닭고기카레솥밥>",
+    "title": "[TIP] 어울리는 조합 & 어울리지 않는 조합 설명",
+    "duration": 126,
+    "commentCount": 17,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610c896535ea12000d30f521",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "517981b0-561c-4d00-8056-b6a225301b09.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "12c9eda1-f768-4da2-b399-331cfd7e5068.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "57d50de5-1b58-4f80-a89c-4bc8ef68a820.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 17,
+    "chapter": "007_손님 초대 시 훌륭한 메인이 되는 <전복영양솥밥>",
+    "title": "어른들께 인기만점! 전복과 밑재료 손질하기",
+    "duration": 715,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610a7874eede350014eb9aed",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "80dae62f-ff84-4162-a9b0-c645f7d6d726.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "fa1f80c7-9716-445b-a5be-fe7b04add821.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "4464289e-f43a-4426-a1e2-569d02603ea5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 18,
+    "chapter": "007_손님 초대 시 훌륭한 메인이 되는 <전복영양솥밥>",
+    "title": "풍미가 잘 느껴지게 조리하기 & 쪽파양념장 만들기",
+    "duration": 798,
+    "commentCount": 21,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a78816908d90015b0756b",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "cea974ed-2a4f-43f1-8e7e-ab0cb93d60f1.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "bad5e23f-b5e1-4933-9ebd-e3c2424a96d1.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "0c07fa22-74ea-40c7-8928-00a4931b57da.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 19,
+    "chapter": "008_손님 초대 시 훌륭한 메인이 되는 <문어당근솥밥>",
+    "title": "문어 육수 만들기, 질기지 않게 문어 손질하기",
+    "duration": 438,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610c8ad30c1b710014a2a2a9",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "b9cb0618-f4bc-4b5e-a418-197b1e75a16b.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "6ea4ec22-04f4-4b69-b2a2-069bee30696c.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "9df05bf8-4250-4a92-bfff-8b1b29772cd8.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 20,
+    "chapter": "008_손님 초대 시 훌륭한 메인이 되는 <문어당근솥밥>",
+    "title": "눈과 입이 즐거운 플레이팅으로 완성하기",
+    "duration": 786,
+    "commentCount": 20,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610c8b095bae3d0014c1862d",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "156e6365-9a24-4bad-bf69-1edc65914d27.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "f7db6c3e-63f0-459d-aa45-232363c30766.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c57d05fb-5207-4a0e-b786-01e7262b704c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 21,
+    "chapter": "009_재미있고 맛있는데 건강까지! <명란미역솥밥>",
+    "title": "미역,명란 밑간하기",
+    "duration": 436,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610c8b88903877001427ebb3",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "d8fafbba-4ee6-4a07-b245-5dd544f1541f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ffd17d19-f2bb-4d1d-9866-ab23ec3f0ccd.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "3f76d0d2-c797-41a3-9239-f10b1a0f6216.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 22,
+    "chapter": "009_재미있고 맛있는데 건강까지! <명란미역솥밥>",
+    "title": "미역과 쌀이 어우러지게 볶기",
+    "duration": 504,
+    "commentCount": 0,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610c8b8902b657001464dfcf",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "950b6e2c-97ff-477a-9d57-975667760005.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "ced15572-e92e-40f9-bb5b-5339889dc223.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "768a613d-c2ef-47fb-8f27-f578f2b7ef7f.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 23,
+    "chapter": "009_재미있고 맛있는데 건강까지! <명란미역솥밥>",
+    "title": "[Tip] 명란미역솥밥의 완성도를 책임져줄 플레이팅 팁",
+    "duration": 296,
+    "commentCount": 23,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610c8bb8b02b37001437a691",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "142c46e5-6444-4340-a04b-fa0b9132e566.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "a7852618-8856-42fc-92d8-cab730553773.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "c7a1dbbe-bcc1-431f-9c81-6d397abb9008.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 24,
+    "chapter": "010_재미있고 맛있는데 건강까지! <홍합톳조림솥밥>",
+    "title": "비리지 않고 시원한 홍합육수 만들기",
+    "duration": 423,
+    "commentCount": 1,
+    "hasMission": false,
+    "hasAttachment": false,
+    "lectureId": "610c8bddb8302d000dc289b0",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "f46d0ad0-48a3-40fa-9da0-ac032fbb7713.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "0d70280e-0556-4e09-af1a-59c056456ced.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "7cace2ae-fd49-40e5-bf05-2e264af5a6f5.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 25,
+    "chapter": "010_재미있고 맛있는데 건강까지! <홍합톳조림솥밥>",
+    "title": "톳조림 만들어서 완성하기",
+    "duration": 925,
+    "commentCount": 13,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610c8be2788f170015f09671",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "9d5038dc-6f47-461b-91af-3680703331e4.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "be3542cb-1198-4873-8fa7-c7223f614c5f.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "75397906-5846-4819-b449-82c7c53adb2c.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 26,
+    "chapter": "011_솥밥과 함께! 감칠맛 나는 사이드 메뉴",
+    "title": "돼지고기가지볶음",
+    "duration": 1079,
+    "commentCount": 14,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610c8c9c9c7e85000d647aab",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "21f91e28-69b1-4103-8642-3d7d61eead59.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "c2f55ae8-9790-4999-9d5a-6b445fd5f3d0.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "ff017c7e-9224-46af-8fff-d13cf2134a2d.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 27,
+    "chapter": "011_솥밥과 함께! 감칠맛 나는 사이드 메뉴",
+    "title": "매콤멸치조림",
+    "duration": 792,
+    "commentCount": 15,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610c8c9eb8302d000dc3ab57",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "e8634bd0-0e7a-4e10-9ed5-cb1bb38fc2c3.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "5cd97d82-462a-49d6-8b39-166cafe29e0b.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b98407bb-2456-475d-98dd-5cdfdebe1402.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 28,
+    "chapter": "011_솥밥과 함께! 감칠맛 나는 사이드 메뉴",
+    "title": "오징어초무침",
+    "duration": 1291,
+    "commentCount": 14,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610c8ca556e4fd000e73accd",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "87d2a6b6-8b3b-46d1-9fa3-7a58e0f0f56f.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "441e9e4c-17c9-4544-ab57-4c248a2cd296.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "b8c83ff1-a77e-4b1b-a1ef-2ad77a44cea7.vtt"
+      }
+    ]
+  },
+  {
+    "sn": 29,
+    "chapter": "012_완강을 축하합니다!",
+    "title": "집에 있는 밥과 재료 만으로 감탄사가 나오는 한 상을 완성해 봐요!",
+    "duration": 108,
+    "commentCount": 13,
+    "hasMission": true,
+    "hasAttachment": false,
+    "lectureId": "610a7a0626a4cd000d274f62",
+    "subtitles": [
+      {
+        "lang": "ko",
+        "name": "8a924738-68f6-4819-b50e-303f926b948c.vtt"
+      },
+      {
+        "lang": "en",
+        "name": "0ac71821-c9a0-4652-8063-590dc9d285ae.vtt"
+      },
+      {
+        "lang": "ja",
+        "name": "cefef768-0779-4a79-8910-06bdc1d369ea.vtt"
+      }
+    ]
+  }
+]
