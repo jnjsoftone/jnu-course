@@ -673,13 +673,6 @@ const myclassesFromClassJsonFiles = (save = true) => {
     saveJson(`${CLASS101_JSON_ROOT}/myclasses.json`, myclasses);
   }
   return myclasses;
-  // const myclasses = [];
-  // for (const classJsonFile of classJsonFiles) {
-  //   const classId = classJsonFile.split('/')[3];
-  //   const classInfo = loadJson(classJsonFile);
-  //   myclasses.push(classInfo);
-  // }
-  // return myclasses;
 };
 
 // for (const myclass of myclasses) {
