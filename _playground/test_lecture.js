@@ -643,6 +643,24 @@ const processClassLectures = async (myclasses = [], type = 'init') => {
   }
 };
 
+// /*
+//  * 자막 파일 이동
+//  * @param classId: 강의 번호
+//  * @param lectureId: 강의 번호
+//  * @param vttInfos: 자막 정보
+//  * @return void
+//  */
+// const copyVttFilesToVideo = (classId) => {
+//   const folders = findFolders(`${CLASS101_HTML_ROOT}/classes/${classId}`);
+
+//   for (const folder of folders) {
+//     const lectureSlug = getLectureSlug(folder);
+//     const src = `${CLASS101_HTML_ROOT}/classes/${classId}/${lectureSlug}/subtitles/`;
+//     const dst = `${CLASS101_VIDEO_ROOT}/${classId}/`;
+//     fs.copySync(src, dst);
+//   }
+// };
+
 /*
  * 자막 파일 이동
  * @param classId: 강의 번호
@@ -652,11 +670,15 @@ const processClassLectures = async (myclasses = [], type = 'init') => {
  */
 const copyVttFilesToVideo = (classId) => {
   const folders = findFolders(`${CLASS101_HTML_ROOT}/classes/${classId}`);
+  const classInfo = loadJson(`${CLASS101_JSON_ROOT}/classes/${classId}.json`);
 
   for (const folder of folders) {
     const lectureSlug = getLectureSlug(folder);
+    const lectureSn = parseInt(folder.split('_')[0]);
+    const lectureVtt = classInfo.find((l) => l.sn === lectureSn).subtitles.find((v) => v.lang === 'ko');
+    const vttName = lectureVtt.name;
     const src = `${CLASS101_HTML_ROOT}/classes/${classId}/${lectureSlug}/subtitles/`;
-    const dst = `${CLASS101_VIDEO_ROOT}/${classId}/`;
+    const dst = `${CLASS101_VIDEO_ROOT}/${classId}/${lectureSlug}.vtt`;
     fs.copySync(src, dst);
   }
 };
