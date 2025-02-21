@@ -7,6 +7,7 @@ import {
   saveFile,
   setPath,
   findFiles,
+  findFolders,
   sanitizeName,
   sleepAsync,
   PLATFORM,
@@ -25,6 +26,7 @@ const {
   CHROME_DEFAULT_USER_DATA_DIR,
   CLASS101_HTML_ROOT,
   CLASS101_JSON_ROOT,
+  CLASS101_VIDEO_ROOT,
   CLASS101_MYCLASSES_URL,
 } = process.env;
 
@@ -673,13 +675,22 @@ const copyVttFilesToVideo = (classId) => {
   const classInfo = loadJson(`${CLASS101_JSON_ROOT}/classes/${classId}.json`);
 
   for (const folder of folders) {
-    const lectureSlug = getLectureSlug(folder);
-    const lectureSn = parseInt(folder.split('_')[0]);
+    // console.log(`folder: ${folder}`);
+    const lectureSlug = folder.split('/').pop();
+    const lectureSn = parseInt(lectureSlug.split('_')[0]);
+    // console.log(`lectureSn: ${lectureSn}`);
+    const lecture = classInfo.find((l) => l.sn === lectureSn);
+    // console.log(`lecture: ${JSON.stringify(lecture)}`);
     const lectureVtt = classInfo.find((l) => l.sn === lectureSn).subtitles.find((v) => v.lang === 'ko');
-    const vttName = lectureVtt.name;
-    const src = `${CLASS101_HTML_ROOT}/classes/${classId}/${lectureSlug}/subtitles/`;
-    const dst = `${CLASS101_VIDEO_ROOT}/${classId}/${lectureSlug}.vtt`;
-    fs.copySync(src, dst);
+    if (lectureVtt) {
+      const vttName = lectureVtt.name;
+      const src = `${CLASS101_HTML_ROOT}/classes/${classId}/${lectureSlug}/subtitles/${vttName}`;
+      saveFile(`${CLASS101_VIDEO_ROOT}/${classId}/${lectureSlug}.vtt`, loadFile(src), {
+        newFile: false,
+      });
+    } else {
+      console.log(`자막 파일을 찾을 수 없습니다: ${classId}/${lectureSlug}`);
+    }
   }
 };
 
@@ -702,7 +713,7 @@ const myclassesFromClassJsonFiles = (save = true) => {
 //     copyVttFilesToVideo(classId);
 // }
 
-myclassesFromClassJsonFiles();
+// myclassesFromClassJsonFiles();
 
 // * TEST
 // const classId = '5ec0d03c31a0232781e26854';
@@ -722,3 +733,13 @@ myclassesFromClassJsonFiles();
 // for (const redown of redowns) {
 //   await saveClassLectures(redown[0], 'update', redown[1]);
 // }
+
+// * 자막
+const myclasses = loadJson(`${CLASS101_JSON_ROOT}/myclasses.json`);
+const classeIds = myclasses.map((c) => c.classId);
+// const classeIds = ['5e4d14c996102f0dac19931e'];
+for (const classId of classeIds) {
+  // const classId = myclass.lectures.map((l) => l.sn);
+  copyVttFilesToVideo(classId);
+}
+// copyVttFilesToVideo('5e7a1b0f2d5c9d74e9a7f842');

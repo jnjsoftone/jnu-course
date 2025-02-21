@@ -29,7 +29,7 @@
   {
     "sn": 3,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "운영체제의 사용 ",
+    "title": "운영체제의 사용 1",
     "duration": 1448,
     "commentCount": 3,
     "hasMission": false,
@@ -53,7 +53,7 @@
   {
     "sn": 4,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "운영체제의 사용 ",
+    "title": "운영체제의 사용 2",
     "duration": 1610,
     "commentCount": 1,
     "hasMission": false,
@@ -69,7 +69,7 @@
   {
     "sn": 5,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "운영체제의 사용 ",
+    "title": "운영체제의 사용 3",
     "duration": 2206,
     "commentCount": 0,
     "hasMission": false,
@@ -93,7 +93,7 @@
   {
     "sn": 6,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "운영체제의 사용 ",
+    "title": "운영체제의 사용 4",
     "duration": 1268,
     "commentCount": 0,
     "hasMission": false,
@@ -157,7 +157,7 @@
   {
     "sn": 9,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "연습문제 ",
+    "title": "연습문제",
     "duration": 1956,
     "commentCount": 0,
     "hasMission": false,
@@ -181,7 +181,7 @@
   {
     "sn": 10,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "컴퓨터 시스템 관리 ",
+    "title": "컴퓨터 시스템 관리 1",
     "duration": 1541,
     "commentCount": 0,
     "hasMission": false,
@@ -205,7 +205,7 @@
   {
     "sn": 11,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "컴퓨터 시스템 관리 ",
+    "title": "컴퓨터 시스템 관리 2",
     "duration": 1501,
     "commentCount": 0,
     "hasMission": false,
@@ -229,7 +229,7 @@
   {
     "sn": 12,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "컴퓨터 시스템 관리 ",
+    "title": "컴퓨터 시스템 관리 3",
     "duration": 1444,
     "commentCount": 0,
     "hasMission": false,
@@ -253,7 +253,7 @@
   {
     "sn": 13,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "컴퓨터 시스템 관리 ",
+    "title": "컴퓨터 시스템 관리 4",
     "duration": 2080,
     "commentCount": 0,
     "hasMission": false,
@@ -277,7 +277,7 @@
   {
     "sn": 14,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "컴퓨터 시스템 관리 ",
+    "title": "컴퓨터 시스템 관리 5",
     "duration": 1860,
     "commentCount": 0,
     "hasMission": false,
@@ -301,7 +301,7 @@
   {
     "sn": 15,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "컴퓨터 시스템 관리 ",
+    "title": "컴퓨터 시스템 관리 6",
     "duration": 1385,
     "commentCount": 0,
     "hasMission": false,
@@ -325,7 +325,7 @@
   {
     "sn": 16,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "연습문제 ",
+    "title": "연습문제",
     "duration": 1296,
     "commentCount": 0,
     "hasMission": false,
@@ -349,7 +349,7 @@
   {
     "sn": 17,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "인터넷 활용 ",
+    "title": "인터넷 활용 1",
     "duration": 1746,
     "commentCount": 0,
     "hasMission": false,
@@ -373,7 +373,7 @@
   {
     "sn": 18,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "인터넷 활용 ",
+    "title": "인터넷 활용 2",
     "duration": 2282,
     "commentCount": 0,
     "hasMission": false,
@@ -445,7 +445,7 @@
   {
     "sn": 21,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "연습문제 ",
+    "title": "연습문제",
     "duration": 1173,
     "commentCount": 0,
     "hasMission": false,
@@ -469,7 +469,7 @@
   {
     "sn": 22,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "모의고사 ",
+    "title": "모의고사 1",
     "duration": 1903,
     "commentCount": 0,
     "hasMission": false,
@@ -493,7 +493,7 @@
   {
     "sn": 23,
     "chapter": "001_컴퓨터활용능력 1급 필기-컴퓨터 일반",
-    "title": "모의고사 ",
+    "title": "모의고사 2",
     "duration": 1678,
     "commentCount": 0,
     "hasMission": false,
@@ -520,7 +520,7 @@
   {
     "sn": 25,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "입력 및 편집 ",
+    "title": "입력 및 편집 1",
     "duration": 1332,
     "commentCount": 1,
     "hasMission": false,
@@ -544,7 +544,7 @@
   {
     "sn": 26,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "입력 및 편집 ",
+    "title": "입력 및 편집 2",
     "duration": 1220,
     "commentCount": 0,
     "hasMission": false,
@@ -568,7 +568,7 @@
   {
     "sn": 27,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "입력 및 편집 ",
+    "title": "입력 및 편집 3",
     "duration": 1932,
     "commentCount": 0,
     "hasMission": false,
@@ -592,7 +592,7 @@
   {
     "sn": 28,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "입력 및 편집 ",
+    "title": "입력 및 편집 4",
     "duration": 1202,
     "commentCount": 0,
     "hasMission": false,
@@ -616,7 +616,7 @@
   {
     "sn": 29,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "연습문제 ",
+    "title": "연습문제",
     "duration": 1709,
     "commentCount": 0,
     "hasMission": false,
@@ -640,7 +640,7 @@
   {
     "sn": 30,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "수식활용 ",
+    "title": "수식활용 1",
     "duration": 1265,
     "commentCount": 0,
     "hasMission": false,
@@ -664,7 +664,7 @@
   {
     "sn": 31,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "수식활용 ",
+    "title": "수식활용 2",
     "duration": 1648,
     "commentCount": 0,
     "hasMission": false,
@@ -680,7 +680,7 @@
   {
     "sn": 32,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "수식활용 ",
+    "title": "수식활용 3",
     "duration": 1326,
     "commentCount": 0,
     "hasMission": false,
@@ -704,7 +704,7 @@
   {
     "sn": 33,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "수식활용 ",
+    "title": "수식활용 4",
     "duration": 1227,
     "commentCount": 0,
     "hasMission": false,
@@ -728,7 +728,7 @@
   {
     "sn": 34,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "연습문제 ",
+    "title": "연습문제",
     "duration": 1500,
     "commentCount": 0,
     "hasMission": false,
@@ -744,7 +744,7 @@
   {
     "sn": 35,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "수식활용 ",
+    "title": "수식활용",
     "duration": 1095,
     "commentCount": 0,
     "hasMission": false,
@@ -760,7 +760,7 @@
   {
     "sn": 36,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "데이터관리 ",
+    "title": "데이터관리 1",
     "duration": 2000,
     "commentCount": 0,
     "hasMission": false,
@@ -776,7 +776,7 @@
   {
     "sn": 37,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "데이터관리 ",
+    "title": "데이터관리 2",
     "duration": 2256,
     "commentCount": 0,
     "hasMission": false,
@@ -800,7 +800,7 @@
   {
     "sn": 38,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "데이터관리 ",
+    "title": "데이터관리 3",
     "duration": 1842,
     "commentCount": 0,
     "hasMission": false,
@@ -840,7 +840,7 @@
   {
     "sn": 40,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "매크로와 프로그래밍 ",
+    "title": "매크로와 프로그래밍 1",
     "duration": 1089,
     "commentCount": 0,
     "hasMission": false,
@@ -864,7 +864,7 @@
   {
     "sn": 41,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "매크로와 프로그래밍 ",
+    "title": "매크로와 프로그래밍 2",
     "duration": 1192,
     "commentCount": 0,
     "hasMission": false,
@@ -888,7 +888,7 @@
   {
     "sn": 42,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "매크로와 프로그래밍 ",
+    "title": "매크로와 프로그래밍 3",
     "duration": 966,
     "commentCount": 0,
     "hasMission": false,
@@ -912,7 +912,7 @@
   {
     "sn": 43,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "연습문제 ",
+    "title": "연습문제",
     "duration": 2441,
     "commentCount": 1,
     "hasMission": false,
@@ -936,7 +936,7 @@
   {
     "sn": 44,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "모의고사 ",
+    "title": "모의고사 1",
     "duration": 2441,
     "commentCount": 0,
     "hasMission": false,
@@ -960,7 +960,7 @@
   {
     "sn": 45,
     "chapter": "002_컴퓨터활용능력 1급 필기-스프레드시트",
-    "title": "모의고사 ",
+    "title": "모의고사 2",
     "duration": 2383,
     "commentCount": 0,
     "hasMission": false,

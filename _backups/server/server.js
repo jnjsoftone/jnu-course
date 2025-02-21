@@ -1,7 +1,12 @@
-const express = require('express');
-const fs = require('fs');
-const path = require('path');
-const cors = require('cors');
+// const express = require('express');
+// const fs = require('fs');
+// const path = require('path');
+// const cors = require('cors');
+
+import express from 'express';
+import fs from 'fs';
+import path from 'path';
+import cors from 'cors';
 
 const app = express();
 const PORT = 4000;
@@ -23,7 +28,7 @@ app.get('/api/files/:classId/:lectureId', (req, res) => {
   fs.readdir(dirPath, (err, files) => {
     if (err) {
       console.error('Directory read error:', err);
-      res.json({ files: [] });  // 디렉토리가 없는 경우 빈 배열 반환
+      res.json({ files: [] }); // 디렉토리가 없는 경우 빈 배열 반환
       return;
     }
     res.json({ files });
@@ -36,13 +41,13 @@ app.get('/*', (req, res, next) => {
   const relativePath = req.path.startsWith('/') ? req.path.slice(1) : req.path;
   const decodedPath = decodeURIComponent(relativePath);
   const filePath = path.join(VIDEO_BASE_PATH, decodedPath);
-  
+
   console.log('Path info:');
   console.log('- relativePath:', relativePath);
   console.log('- decodedPath:', decodedPath);
   console.log('- VIDEO_BASE_PATH:', VIDEO_BASE_PATH);
   console.log('- Final filePath:', filePath);
-  
+
   // VTT 파일 처리
   if (ext === '.vtt') {
     try {
@@ -56,7 +61,7 @@ app.get('/*', (req, res, next) => {
       return res.status(404).send('File not found');
     }
   }
-  
+
   // HTML 파일 처리
   if (ext === '.html') {
     try {
@@ -70,7 +75,7 @@ app.get('/*', (req, res, next) => {
       return res.status(404).send('File not found');
     }
   }
-  
+
   // JSON 파일 처리
   if (ext === '.json') {
     try {
@@ -84,7 +89,7 @@ app.get('/*', (req, res, next) => {
       return res.status(404).send('File not found');
     }
   }
-  
+
   // 이미지 파일 처리
   if (['.jpg', '.jpeg', '.png', '.gif', '.webp'].includes(ext)) {
     try {
@@ -94,7 +99,7 @@ app.get('/*', (req, res, next) => {
         '.jpeg': 'image/jpeg',
         '.png': 'image/png',
         '.gif': 'image/gif',
-        '.webp': 'image/webp'
+        '.webp': 'image/webp',
       };
       res.setHeader('Content-Type', contentTypeMap[ext]);
       fs.createReadStream(filePath).pipe(res);
@@ -104,7 +109,7 @@ app.get('/*', (req, res, next) => {
       return res.status(404).send('File not found');
     }
   }
-  
+
   // 비디오 파일 처리
   if (['.mkv', '.mp4', '.avi'].includes(ext)) {
     try {
@@ -120,7 +125,7 @@ app.get('/*', (req, res, next) => {
         'Access-Control-Allow-Methods': 'GET, HEAD',
         'Access-Control-Allow-Headers': 'Range',
         'Cache-Control': 'no-cache',
-        'Content-Type': 'video/mp4'
+        'Content-Type': 'video/mp4',
       };
 
       // 파일 확장자에 따른 Content-Type 설정
@@ -138,7 +143,7 @@ app.get('/*', (req, res, next) => {
         const parts = range.replace(/bytes=/, '').split('-');
         const start = parseInt(parts[0], 10);
         const end = parts[1] ? parseInt(parts[1], 10) : fileSize - 1;
-        const chunksize = (end - start) + 1;
+        const chunksize = end - start + 1;
 
         const head = {
           ...commonHeaders,
@@ -169,18 +174,19 @@ app.get('/*', (req, res, next) => {
   try {
     fs.accessSync(filePath, fs.constants.F_OK);
     const filename = path.basename(filePath);
-    const mimeType = {
-      '.pdf': 'application/pdf',
-      '.zip': 'application/zip',
-      '.py': 'text/x-python',
-      '.xlsx': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
-      '.doc': 'application/msword',
-      '.docx': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
-      '.hwp': 'application/x-hwp',
-      '.txt': 'text/plain',
-      '.csv': 'text/csv',
-      '.md': 'text/markdown',
-    }[ext] || 'application/octet-stream';  // 알 수 없는 확장자는 'application/octet-stream'으로 처리
+    const mimeType =
+      {
+        '.pdf': 'application/pdf',
+        '.zip': 'application/zip',
+        '.py': 'text/x-python',
+        '.xlsx': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+        '.doc': 'application/msword',
+        '.docx': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+        '.hwp': 'application/x-hwp',
+        '.txt': 'text/plain',
+        '.csv': 'text/csv',
+        '.md': 'text/markdown',
+      }[ext] || 'application/octet-stream'; // 알 수 없는 확장자는 'application/octet-stream'으로 처리
 
     res.setHeader('Content-Type', mimeType);
     res.setHeader('Content-Disposition', `attachment; filename*=UTF-8''${encodeURIComponent(filename)}`);
