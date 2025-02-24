@@ -3,11 +3,6 @@ import os
 import re
 from pathlib import Path
 
-BASE_DIR = '/volume1/video/lecture/class101'
-REPO_DIR = '/volume1/video/lecture/_repo/class101_2'
-MYCLASSES_FILE = 'json/myclasses_2.json'
-
-
 def sanitize_name(text):
     # 대괄호를 소괄호로 치환
     text = text.replace('[', '(').replace(']', ')')
@@ -47,12 +42,12 @@ def get_lecture_id_by_title_and_sn(lectures, title, sn):
             return lecture['lectureId']
     return None
 
-def reverse_class101_files(base_dir=BASE_DIR, repo_dir=REPO_DIR, myclasses_file=MYCLASSES_FILE):
-    base_dir = Path(base_dir)
-    repo_dir = Path(repo_dir)
+def reverse_class101_files():
+    base_dir = Path('/volume1/video/lecture/class101')
+    repo_dir = Path('/volume1/video/lecture/_repo/class101')
     
     # myclasses.json 로드
-    myclasses = load_json_file(f'{repo_dir}/{myclasses_file}')
+    myclasses = load_json_file(repo_dir / 'json/myclasses.json')
     
     # 모든 디렉토리 순회
     for dir_path in base_dir.glob('*'):
@@ -109,13 +104,13 @@ def reverse_class101_files(base_dir=BASE_DIR, repo_dir=REPO_DIR, myclasses_file=
             dir_path.rmdir()
             print(f"빈 디렉토리 삭제: {dir_path}")
 
-def rename_class101_files(base_dir=BASE_DIR, repo_dir=REPO_DIR, myclasses_file=MYCLASSES_FILE):
-    base_dir = Path(base_dir)
-    repo_dir = Path(repo_dir)
+def rename_class101_files():
+    base_dir = Path('/volume1/video/lecture/class101')
+    repo_dir = Path('/volume1/video/lecture/_repo/class101')
     
     # myclasses.json 로드
-    myclasses = load_json_file(f'{repo_dir}/{myclasses_file}')
-      
+    myclasses = load_json_file(repo_dir / 'json/myclasses.json')
+    
     # 모든 디렉토리 순회
     for dir_path in base_dir.glob('*'):
         if not dir_path.is_dir():
@@ -133,10 +128,10 @@ def rename_class101_files(base_dir=BASE_DIR, repo_dir=REPO_DIR, myclasses_file=M
             
         # 새로운 디렉토리 이름 생성 (classId 제거)
         new_dir_name = sanitize_name(class_info['title'])
-        new_dir_path = f'{dir_path.parent}/{new_dir_name}'
+        new_dir_path = dir_path.parent / new_dir_name
         
         # 강의 정보 로드
-        lectures_file = f'{repo_dir}/json/classes/{old_class_id}.json'
+        lectures_file = repo_dir / f'json/classes/{old_class_id}.json'
         if not lectures_file.exists():
             print(f"강의 정보 파일을 찾을 수 없음: {lectures_file}")
             continue
@@ -175,8 +170,8 @@ def rename_class101_files(base_dir=BASE_DIR, repo_dir=REPO_DIR, myclasses_file=M
             dir_path.rmdir()
             print(f"빈 디렉토리 삭제: {dir_path}")
 
-def remove_empty_directories(base_dir=BASE_DIR):
-    base_dir = Path(base_dir)
+def remove_empty_directories():
+    base_dir = Path('/volume1/video/lecture/class101')
     
     # 모든 디렉토리 순회
     for dir_path in base_dir.glob('*'):

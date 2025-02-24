@@ -25,6 +25,8 @@ const substituteTitle = (title) => {
     .replace(/미션첨부파일$/, '')
     .replace(/첨부파일$/, '')
     .replace(/미션$/, '')
+    // .replace(/(.+?)[\d]+$/, '$1')
+    // .replace(/미션$/, '')
     .trim();
 
   return result;
